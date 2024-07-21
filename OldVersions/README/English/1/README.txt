@@ -1,295 +1,549 @@
 
 ***
 
-# <projectName>
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this entire page.</b></p></summary>
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+<img src="/" alt="Logo coming soon" width="256" height="256"> <!-- No logo yet !-->
 
-# By:
+# Seanpm2001 WorldDB
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the title section</b></p></summary>
 
-### Top
+`2️⃣️0️⃣️0️⃣️1️⃣️🌐️🛢️ The official source repository for the Seanpm2001 WorldDB project.`
 
-# `README.md`
+</details> <!-- End of title section !-->
 
-***
+---
 
-## Read this article in a different language
+## What is WorldDB?
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the what is WorldDB section</b></p></summary>
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+WorldDB is a curated collection of images, videos, and audio sorted by countries and territories of the world.
 
-***
+---
 
-# Index
+### Motivation
 
-[00.0 - Top](#Top)
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the motivation section</b></p></summary>
 
-> [00.1 - Title](#<projectName>)
+I have a growing collection of images from every country, as part of a project I started in 2022. This media collection grew to the size of 30+ gigabytes in its first 2 years, and I didn't know how to better organize it, as I didn't know what to call the project. In 2024, I decided to collectively call it Seanpm2001 World DB.
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+</details> <!-- End of Motivation section !-->
 
-> [00.3 - Index](#Index)
+---
 
-[01.0 - Description](#RepositoryName)
+### Can I see it?
 
-[02.0 - About](#About)
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the motivation section</b></p></summary>
 
-[03.0 - Wiki](#Wiki)
+Not yet. I am still working on a way of hosting the content.
 
-[04.0 - Version history](#Version-history)
+</details> <!-- End of Can I see it? section !-->
 
-[05.0 - Software status](#Software-status)
+---
 
-[06.0 - Sponsor info](#Sponsor-info)
+_End of What is WorldDB section._
 
-[07.0 - Contributers](#Contributers)
-
-[08.0 - Issues](#Issues)
-
-> [08.1 - Current issues](#Current-issues)
-
-> [08.2 - Past issues](#Past-issues)
-
-> [08.3 - Past pull requests](#Past-pull-requests)
-
-> [08.4 - Active pull requests](#Active-pull-requests)
-
-[09.0 - Resources](#Resources)
-
-[10.0 - Contributing](#Contributing)
-
-[11.0 - About README](#About-README)
-
-[12.0 - README Version history](#README-version-history)
-
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
+</details> <!-- End of What is WorldDB section !-->
 
 ***
 
-# <repoName>
-<repo_description>
+# Languages
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the languages section</b></p></summary>
+
+SQL is used for primary database repositories, and SVG is used for secondary database repositories. For example, Earth is a primary database, but its countries and their administrative units are secondary databases.
+
+</details> <!-- End of languages section !-->
 
 ***
 
-## About
+# WorldDB
 
-See above. <extendedRepoDescription>
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the WorldDB section</b></p></summary>
+
+> **Repository listing is as of:** `2024, Sunday, July 21st`
+
+I am currently working on creating repositories for all countries, going in alphabetical order.
+
+- [ :octocat: `Home repository`](https://github.com/seanpm2001/Seanpm2001_WorldDB/)
+- - [:octocat: `Database root repository`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB/)
+- [:octocat: `Documentation repository`](https://github.com/seanpm2001/Seanpm2001_WorldDB_Docs/)
+
+---
+
+## Kuiper Belt
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Kuiper Belt section</b></p></summary>
+
+- [:octocat: `DB: Kuiper Belt`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Kuiper-Belt/)
+
+### Pluto
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Pluto section</b></p></summary>
+
+- [:octocat: `DB: Pluto`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Pluto/)
+
+</details> <!-- End of Pluto section !-->
+
+---
+
+_End of Kuiper Belt section._
+
+</details> <!-- End of Kuiper Belt section !-->
+
+---
+
+## Milky Way
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Milky Way section</b></p></summary>
+
+- [:octocat: `DB: Milky Way`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Milky-Way/)
+
+---
+
+### Earth
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Earth section</b></p></summary>
+
+- [:octocat: `DB: Earth`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth/)
+
+#### Moon (Earth)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Moon (Earth) section</b></p></summary>
+
+- [:octocat: `DB: Earth (moon)`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth-Moon/)
+
+</details> <!-- End of Moon (Earth) section !-->
+
+---
+
+#### Africa
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Africa section</b></p></summary>
+
+- [:octocat: `DB: Earth/Africa`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Africa/)
+- - [:octocat: `DB: Earth/Africa/Algeria`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Algeria/)
+- - [:octocat: `DB: Earth/Africa/Angola`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Angola/)
+- - [:octocat: `DB: Earth/Africa/Benin`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Benin/)
+- - [:octocat: `DB: Earth/Africa/Botswana`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Botswana/)
+- - [:octocat: `DB: Earth/Africa/Burkina Faso`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Burkina-Faso/)
+- - [:octocat: `DB: Earth/Africa/Burundi`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Burundi/)
+- - [:octocat: `DB: Earth/Africa/Cameroon`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cameroon/)
+- - [:octocat: `DB: Earth/Africa/Central African Republic`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Central-African-Republic/)
+- - [:octocat: `DB: Earth/Africa/Chad`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Chad/)
+- - [:octocat: `DB: Earth/Africa/Comoros`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Comoros/)
+
+</details> <!-- End of Africa section !-->
+
+---
+
+#### Americas
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Americas section</b></p></summary>
+
+- [:octocat: `DB: Earth/Americas`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Americas/)
+
+##### North America
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the North America section</b></p></summary>
+
+- [:octocat: `DB: Earth/Americas/North America`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_North-America/)
+- - [:octocat: `DB: Earth/Americas/North America/Canada`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Canada/)
+- - - [:octocat:` DB: Earth/Americas/North America/Canada/British Columbia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Columbia/)
+- - [:octocat: `DB: Earth/Americas/North America/Costa Rica`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Costa-Rica/)
+
+</details> <!-- End of North America section !-->
+
+##### South America
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the South America section</b></p></summary>
+
+- [:octocat: `DB: Earth/Americas/South America`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-America/)
+- - [:octocat: `DB: Earth/Americas/South America/Anguilla`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Anguilla/)
+- - [:octocat: `DB: Earth/Americas/South America/Antigua and Barbuda`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Antigua-and-Barbuda/)
+- - [:octocat: `DB: Earth/Americas/South America/Argentina`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Argentina/)
+- - [:octocat: `DB: Earth/Americas/South America/Barbados`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Barbados/)
+- - [:octocat: `DB: Earth/Americas/South America/Belize`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Belize/)
+- - [:octocat: `DB: Earth/Americas/South America/Bolivia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bolivia/)
+- - [:octocat: `DB: Earth/Americas/South America/Brazil`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Brazil/)
+- - [:octocat: `DB: Earth/Americas/South America/British Virgin Islands`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Virgin-Islands/)
+- - [:octocat: `DB: Earth/Americas/South America/Cayman Islands`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cayman-Islands/)
+- - [:octocat: `DB: Earth/Americas/South America/Chile`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Chile/)
+- - [:octocat: `DB: Earth/Americas/South America/Colombia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Colombia/)
+- - [:octocat: `DB: Earth/Americas/South America/Cuba`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cuba/)
+
+</details> <!-- End of South America section !-->
+
+---
+
+_End of Americas section._
+
+</details> <!-- End of Americas section !-->
+
+---
+
+#### Antarctica
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Antarctica section</b></p></summary>
+
+- [:octocat: `DB: Earth/Antarctica`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Antarctica/)
+
+</details> <!-- End of Antarctica section !-->
+
+---
+
+#### Asia
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Asia section</b></p></summary>
+
+- [:octocat: `DB: Earth/Asia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Asia/)
+- - [:octocat: `DB: Earth/Asia/Afghanistan`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Afghanistan/)
+- - [:octocat: `DB: Earth/Asia/Armenia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Armenia/)
+- - [:octocat: `DB: Earth/Asia/Azerbaijan`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Azerbaijan/)
+- - [:octocat: `DB: Earth/Asia/Bahrain`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bahrain/)
+- - [:octocat: `DB: Earth/Asia/Bangladesh`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bangladesh/)
+- - [:octocat: `DB: Earth/Asia/Bhutan`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bhutan/)
+- - [:octocat: `DB: Earth/Asia/Brunei`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Brunei/)
+- - [:octocat: `DB: Earth/Asia/Cambodia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cambodia/)
+- - [:octocat: `DB: Earth/Asia/Chechen Republic of Ichkeria`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Chechen-Republic-of-Ichkeria/)
+- - [:octocat: `DB: Earth/Asia/Cyprus`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cyprus/)
+
+</details> <!-- End of Asia section !-->
+
+---
+
+#### Europe
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Europe section</b></p></summary>
+
+- [:octocat: `DB: Earth/Europe`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Europe/)
+- - [:octocat: `DB: Earth/Europe/Albania`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Albania/)
+- - [:octocat: `DB: Earth/Europe/Andorra`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Andorra/)
+- - [:octocat: `DB: Earth/Europe/Austria`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Austria/)
+- - [:octocat: `DB: Earth/Europe/Belarus`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Belarus/)
+- - [:octocat: `DB: Earth/Europe/Belgium`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Belgium/)
+- - [:octocat: `DB: Earth/Europe/Bulgaria`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bulgaria/)
+- - [:octocat: `DB: Earth/Europe/Bosnia and Herzegovina`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bosnia-and-Herzegovina/)
+- - [:octocat: `DB: Earth/Europe/Croatia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Croatia/)
+- - [:octocat: `DB: Earth/Europe/Czech Republic`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Czech-Republic/)
+
+</details> <!-- End of Europe section !-->
+
+---
+
+#### Oceania
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Oceania section</b></p></summary>
+
+- [:octocat: `DB: Earth/Oceania`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Oceania/)
+- - [:octocat: `DB: Earth/Oceania/Australia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Australia/)
+- - [:octocat: `DB: Earth/Oceania/Ascension Island`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ascension-Island/)
+- - [:octocat: `DB: Earth/Oceania/Bermuda`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Bermuda/)
+- - [:octocat: `DB: Earth/Oceania/British Indian Ocean Territory`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Indian-Ocean-Territory/)
+- - [:octocat: `DB: Earth/Oceania/Cape Verde`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cape-Verde/)
+- - [:octocat: `DB: Earth/Oceania/Cook Islands`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cook-Islands/)
+
+</details> <!-- End of Oceania section !-->
+
+---
+
+#### Groupings
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Groupings section</b></p></summary>
+
+---
+
+##### Afro-Eurasia
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Afro-Eurasia section</b></p></summary>
+
+- [:octocat: `DB: Earth/Afro-Eurasia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Afro-Eurasia/)
+
+</details> <!-- End of Afro-Eurasia section !-->
+
+---
+
+##### Eurasia
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Eurasia section</b></p></summary>
+
+- [:octocat: `DB: Earth/Eurasia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Eurasia/)
+
+</details> <!-- End of Eurasia section !-->
+
+---
+
+_End of groupings section._
+
+</details> <!-- End of Groupings section !-->
+
+---
+
+#### Former countries
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Former Countries section</b></p></summary>
+
+- [:octocat: `DB: Earth/Former countries`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Former-Countries/)
+
+##### Former countries in Asia
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Former Countries in Asia section</b></p></summary>
+
+- [:octocat: `DB: Earth/Former countries/Abkhazia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Abkhazia-_-FormerCountry/)
+- [:octocat: `DB: Earth/Former countries/Artsakh`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Artsakh/)
+
+</details> <!-- End of Former countries in Asia section !-->
+
+---
+
+_End of Former countries section._
+
+</details> <!-- End of Former countries section !-->
+
+---
+
+_End of Earth section._
+
+</details> <!-- End of Earth section !-->
+
+---
+
+### Jupiter
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Jupiter section</b></p></summary>
+
+- [:octocat: `DB: Jupiter`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Jupiter/)
+
+</details> <!-- End of Jupiter section !-->
+
+---
+
+### Neptune
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Neptune section</b></p></summary>
+
+- [:octocat: `DB: Neptune`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Neptune/)
+
+</details> <!-- End of Neptune section !-->
+
+---
+
+### Mars
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Mars section</b></p></summary>
+
+- [:octocat: `DB: Mars`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Mars/)
+
+</details> <!-- End of Mars section !-->
+
+---
+
+### Mercury
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Mercury section</b></p></summary>
+
+- [:octocat: `DB: Mercury`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Mercury/)
+
+</details> <!-- End of Mercury section !-->
+
+---
+
+### Saturn
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Saturn section</b></p></summary>
+
+- [:octocat: `DB: Saturn`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Saturn/)
+
+</details> <!-- End of Saturn section !-->
+
+---
+
+### Uranus
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Uranus section</b></p></summary>
+
+- [:octocat: `DB: Uranus`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Uranus/)
+
+</details> <!-- End of Uranus section !-->
+
+---
+
+### Venus
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Venus section</b></p></summary>
+
+- [:octocat: `DB: Venus`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Venus/)
+
+</details> <!-- End of Venus section !-->
+
+---
+
+_End of Milky Way section._
+
+</details> <!-- End of Milky Way section !-->
+
+---
+
+_End of WorldDB section._
+
+</details> <!-- End of WorldDB section !-->
 
 ***
 
-## Wiki
+<!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+# [File info 📜](#File-info-)
 
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary> <!-- This section should be updated daily !-->
 
-***
+<table>
+  <tr>
+    <td>
 
-## Sponsor info
+- **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `1 (2024, Sunday, July 21st at 04:54 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `550` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `02,927` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `21,222` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `18,924` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `21,268` <!-- TODO: This line should be updated daily !-->
+- **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+- **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+- **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-![SponsorButton.png](SponsorButton.png)
+    </td>
+  </tr>
+</table>
 
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+</details> <!-- End of file info section !-->
 
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
+<!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
 
 ***
 
-## Contributers
+<!-- /%/2001_FILE_HISTORY_SECTION.BEGIN\%\ !-->
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+# [File history ⏳️](#File-history-)
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
-> * 2. No other contributers.
+---
 
-***
+<details><summary><p lang="en"><b>Version 1 (2024, Sunday, July 21st at 04:54 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
 
-## Issues
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V1.md)
 
-### Current issues
+> **Note** _The first version of the README, giving a basic summary of the project._
 
-* None at the moment
+> **Changes:**
 
-* No other current issues
+- [x] Started the file
+- [x] Added the title section
+- [x] Added the `What is WorldDB` section
+- [x] Added the `Motivation` section
+- [x] Added the `Can I see it` section
+- [x] Added the `Languages` section
+- [x] Added the `WorldDB` section
+- - [x] Added the `Kuiper Belt` subsection
+- - - [x] Added the `Pluto` sub-subsection
+- - [x] Added the `Milky Way` subsection
+- - - [x] Added the `Earth` sub-subsection
+- - - - [x] Added the `Moon (Earth)` sub-sub-subsection
+- - - - [x] Added the `Africa` sub-sub-subsection
+- - - - [x] Added the `Americas` sub-sub-subsection
+- - - - - [x] Added the `North America` sub-sub-sub-subsection
+- - - - - [x] Added the `South America` sub-sub-sub-subsection
+- - - - [x] Added the `Antarctica` sub-sub-subsection
+- - - - [x] Added the `Asia` sub-sub-subsection
+- - - - [x] Added the `Europe` sub-sub-subsection
+- - - - [x] Added the `Oceania` sub-sub-subsection
+- - - - [x] Added the `Groupings` sub-sub-subsection
+- - - - - [x] Added the `Afro-Eurasia` sub-sub-sub-subsection
+- - - - - [x] Added the `Eurasia` sub-sub-sub-subsection
+- - - - [x] Added the `Former countries` sub-sub-subsection
+- - - - - [x] Added the `Former countries in Asia` sub-sub-sub-subsection
+- - - [x] Added the `Jupiter` sub-subsection
+- - - [x] Added the `Neptune` sub-subsection
+- - - [x] Added the `Mars` sub-subsection
+- - - [x] Added the `Mercury` sub-subsection
+- - - [x] Added the `Saturn` sub-subsection
+- - - [x] Added the `Uranus` sub-subsection
+- - - [x] Added the `Venus` sub-subsection
+- [x] Added the `file info` section 
+- - [x] Added the file type
+- - [x] Added the file version
+- - [x] Added the line count
+- - [x] Added the language
+- - [x] Added the encoding
+- - [x] Added the DST warning
+- - [x] Added the special rendering note
+- [x] Added the `file history` section
+- - [x] Added an entry for version 1
+- [x] Added the footer
+- [x] Made all sections and subsections capable of dropdown
+- - [x] Added source code comments to indicate the end of all dropdown sections
+- [ ] No other changes in version 1
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+</details> <!-- End of file history: version 1 section !-->
 
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
-**TL;DR**
+---
 
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+_End of file history section._
 
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
+</details> <!-- End of file history section !-->
 
 ***
 
-## Contributing
+<!-- /%/2001_FOOTER_SECTION.BEGIN\%\ !-->
 
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
+# [Footer 🦶️](#Footer-)
 
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the footer</b></p></summary>
 
-***
+**You have reached the end of this file.**
 
-## About README
+<table>
+  <tr>
+    <td>
 
-File type: `Markdown (*.md)`
+- [`Back to top`](#Top)
+- [:octocat: `Exit to GitHub`](https://github.com/)
+- [:octocat: `Exit to Bing`](https://bing.com/)
+- [:octocat: `Exit to DuckDuckGo`](https://duckduckgo.com/)
+- [:octocat: `Exit to Ecosia`](https://ecosia.org/)
+- [:octocat: `Exit to Swisscows`](https://swisscows.com/)
 
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
+    </td>
+  </tr>
+</table>
 
-Line count: `0,296`
+###### [EOF](#EOF)
 
-***
+<!-- EOF:
+End
+Of
+File
+!-->
 
-## README version history
+</details> <!-- End of footer !-->
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+_End of footer._
 
-> Changes:
+<!-- /%/2001_FOOTER_SECTION.END\%\ !-->
 
-> * Started the file
+---
 
-> * Added the title section
+_End of article._
 
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-[Back to top](#Top) [Exit](https://github.com)
-
-### EOF
+</details> <!-- End of article !-->
 
 ***
