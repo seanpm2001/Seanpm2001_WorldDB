@@ -104,13 +104,15 @@ SQL is used for primary database repositories, and SVG is used for secondary dat
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the WorldDB section</b></p></summary>
 
-> **Repository listing is as of:** `2024, Monday July 22nd`
+> **Repository listing is as of:** `2024, Tuesday July 23rd`
 
 I am currently working on creating repositories for all countries, going in alphabetical order. I currently expect to be done with this by 2024, November 30th, unless there is a delay.
 
 - [ :octocat: `Home repository`](https://github.com/seanpm2001/Seanpm2001_WorldDB/)
 - - [:octocat: `Database root repository`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB/)
 - [:octocat: `Documentation repository`](https://github.com/seanpm2001/Seanpm2001_WorldDB_Docs/)
+
+> See also: [`Seanpm2001-WorldDB_REPOLIST.urll`](/Seanpm2001-WorldDB_REPOLIST.urll)
 
 ---
 
@@ -196,6 +198,8 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Americas/North America/Canada 🇨🇦️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Canada/)
 - - - [:octocat:` DB: Earth/Americas/North America/Canada/British Columbia 🏴󠁣󠁡󠁢󠁣󠁿`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Columbia/)
 - - [:octocat: `DB: Earth/Americas/North America/Costa Rica 🇨🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Costa-Rica/)
+- - [:octocat: `DB: Earth/Americas/North America/Dominica 🇩🇲️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Dominica/)
+- - [:octocat: `DB: Earth/Americas/North America/Dominican Republic 🇩🇴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Dominican-Republic/)
 
 </details> <!-- End of North America section !-->
 
@@ -252,6 +256,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Asia/Cambodia 🇰🇭️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cambodia/)
 - - [:octocat: `DB: Earth/Asia/Chechen Republic of Ichkeria 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Chechen-Republic-of-Ichkeria/)
 - - [:octocat: `DB: Earth/Asia/Cyprus 🇨🇾️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cyprus/)
+- - [:octocat: `DB: Earth/Asia/East Timor 🇹🇱️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-Timor/)
 
 </details> <!-- End of Asia section !-->
 
@@ -533,12 +538,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `2 (2024, Monday, July 22nd at 02:20 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `726` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,114` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `37,628` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `34,065` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `38,221` <!-- TODO: This line should be updated daily !-->
+- **File version:** `3 (2024, Tuesday, July 23rd at 06:59 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `757` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,323` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `39,137` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `35,382` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `39,754` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -668,6 +673,32 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 2
 
 </details> <!-- End of file history: version 2 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 3 (2024, Tuesday, July 23rd at 06:59 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V3.md)
+
+> **Note** _The third version of the README, with small improvements, and new data_
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Americas` sub-sub-subsection
+- - - - - [x] Updated the `North America` sub-sub-sub-subsection
+- - - - [x] Updated the `Asia` sub-sub-subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
+
+</details> <!-- End of file history: version 3 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
