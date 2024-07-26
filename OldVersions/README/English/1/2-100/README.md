@@ -104,7 +104,7 @@ SQL is used for primary database repositories, and SVG is used for secondary dat
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the WorldDB section</b></p></summary>
 
-> **Repository listing is as of:** `2024, Wednesday July 24th`
+> **Repository listing is as of:** `2024, Thursday July 25th`
 
 I am currently working on creating repositories for all countries, going in alphabetical order. I currently expect to be done with this by 2024, November 30th, unless there is a delay.
 
@@ -180,6 +180,8 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Africa/Democratic Republic of the Congo 🇰🇲️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Democratic-Republic-of-the-Congo/)
 - - [:octocat: `DB: Earth/Africa/Djibouti 🇩🇯️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Djibouti/)
 - - [:octocat: `DB: Earth/Africa/Egypt 🇪🇬️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Egypt/)
+- - [:octocat: `DB: Earth/Africa/Equatorial Guinea 🇬🇶️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Equatorial-Guinea/)
+- - [:octocat: `DB: Earth/Africa/Eritrea 🇪🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Eritrea/)
 
 </details> <!-- End of Africa section !-->
 
@@ -280,6 +282,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Europe/Croatia 🇭🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Croatia/)
 - - [:octocat: `DB: Earth/Europe/Czech Republic 🇨🇿️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Czech-Republic/)
 - - [:octocat: `DB: Earth/Europe/Denmark 🇩🇰️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Denmark/)
+- - [:octocat: `DB: Earth/Europe/Estonia 🇪🇪️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Estonia/)
 
 </details> <!-- End of Europe section !-->
 
@@ -541,12 +544,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `4 (2024, Wednesday, July 24th at 04:31 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `786` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,520` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `40,540` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `36,597` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `41,181` <!-- TODO: This line should be updated daily !-->
+- **File version:** `5 (2024, Thursday, July 25th at 05:09 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `814` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,705` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `41,852` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `37,735` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `42,517` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -728,6 +731,31 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 4
 
 </details> <!-- End of file history: version 4 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 5 (2024, Thursdau, July 25th at 05:09 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V5.md)
+
+> **Note** _The fifth version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Africa` sub-sub-subsection
+- - - - [x] Updated the `Europe` sub-sub-subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
+
+</details> <!-- End of file history: version 5 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
