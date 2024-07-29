@@ -104,7 +104,7 @@ SQL is used for primary database repositories, and SVG is used for secondary dat
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the WorldDB section</b></p></summary>
 
-> **Repository listing is as of:** `2024, Sunday, July 28th`
+> **Repository listing is as of:** `2024, Monday, July 29th`
 
 I am currently working on creating repositories for all countries, going in alphabetical order. I currently expect to be done with this by 2024, November 30th, unless there is a delay.
 
@@ -187,6 +187,8 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Africa/Ethiopia 🇪🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ethiopia/)
 - - [:octocat: `DB: Earth/Africa/Gabon 🇬🇦️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Gabon/)
 - - [:octocat: `DB: Earth/Africa/Ghana 🇬🇭️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ghana/)
+- - [:octocat: `DB: Earth/Africa/Guinea 🇬🇳️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guinea/)
+- - [:octocat: `DB: Earth/Africa/Guinea-Bissau 🇬🇼️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guinea-Bissau/)
 
 </details> <!-- End of Africa section !-->
 
@@ -233,6 +235,7 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Americas/South America/El Salvador 🇸🇻️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_El-Salvador/)
 - - [:octocat: `DB: Earth/Americas/South America/Falkland Islands 🇫🇰️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Falkland-Islands/)
 - - [:octocat: `DB: Earth/Americas/South America/Grenada 🇬🇩️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Grenada/)
+- - [:octocat: `DB: Earth/Americas/South America/Guatemala 🇬🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guatemala/)
 
 </details> <!-- End of South America section !-->
 
@@ -561,12 +564,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `8 (2024, Sunday, July 28th at 03:42 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `913` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `06,434` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `47,151` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `42,392` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `47,944` <!-- TODO: This line should be updated daily !-->
+- **File version:** `9 (2024, Monday, July 29th at 04:21 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `942` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `06,630` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `48,541` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `43,597` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `49,358` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -855,6 +858,32 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 8
 
 </details> <!-- End of file history: version 8 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 9 (2024, Monday, July 29th at 04:21 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V9.md)
+
+> **Note** _The eighth version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Africa` sub-sub-subsection
+- - - - [x] Updated the `Americas` sub-sub-subsection
+- - - - - [x] Updated the `South America` sub-sub-sub-subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
+
+</details> <!-- End of file history: version 9 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
