@@ -104,7 +104,7 @@ SQL is used for primary database repositories, and SVG is used for secondary dat
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the WorldDB section</b></p></summary>
 
-> **Repository listing is as of:** `2024, Tuesday, July 30th`
+> **Repository listing is as of:** `2024, Wednesday, July 31st`
 
 I am currently working on creating repositories for all countries, going in alphabetical order. I currently expect to be done with this by 2024, November 30th, unless there is a delay.
 
@@ -277,6 +277,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Asia/Cyprus 🇨🇾️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Cyprus/)
 - - [:octocat: `DB: Earth/Asia/East Timor 🇹🇱️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-Timor/)
 - - [:octocat: `DB: Earth/Asia/Georgia 🇬🇪️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Georgia/)
+- - [:octocat: `DB: Earth/Asia/Hong Kong 🇭🇰️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Hong-Kong/)
 
 </details> <!-- End of Asia section !-->
 
@@ -303,6 +304,8 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Europe/Germany 🇩🇪️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Germany/)
 - - [:octocat: `DB: Earth/Europe/Gibraltar 🇬🇮️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Gibraltar/)
 - - [:octocat: `DB: Earth/Europe/Greece 🇬🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Greece/)
+- - [:octocat: `DB: Earth/Europe/Hungary 🇭🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Hungary/)
+- - [:octocat: `DB: Earth/Europe/Iceland 🇮🇸️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iceland/)
 
 </details> <!-- End of Europe section !-->
 
@@ -567,12 +570,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `10 (2024, Tuesday, July 30th at 03:10 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `970` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `06,821` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `49,900` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `44,778` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `50,741` <!-- TODO: This line should be updated daily !-->
+- **File version:** `11 (2024, Wednesday, July 31st at 03:28 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,000` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `07,012` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `051,259` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `045,959` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `052,124` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -912,6 +915,33 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 10
 
 </details> <!-- End of file history: version 10 section !-->
+
+<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 11 (2024, Wednesday, July 31st at 03:28 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V11.md)
+
+> **Note** _The eleventh version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Asia` sub-sub-subsection
+- - - - [x] Updated the `Europe` sub-sub-subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 11
+- [ ] No other changes in version 11
+
+</details> <!-- End of file history: version 11 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
