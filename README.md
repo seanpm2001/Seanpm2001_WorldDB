@@ -278,6 +278,9 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Asia/East Timor 🇹🇱️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-Timor/)
 - - [:octocat: `DB: Earth/Asia/Georgia 🇬🇪️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Georgia/)
 - - [:octocat: `DB: Earth/Asia/Hong Kong 🇭🇰️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Hong-Kong/)
+- - [:octocat: `DB: Earth/Asia/India 🇮🇳️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_India/)
+- - [:octocat: `DB: Earth/Asia/Indonesia 🇮🇩️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Indonesia/)
+- - [:octocat: `DB: Earth/Asia/Iran 🇮🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iran/)
 
 </details> <!-- End of Asia section !-->
 
@@ -570,12 +573,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `11 (2024, Wednesday, July 31st at 03:28 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,000` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `07,012` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `051,259` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `045,959` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `052,124` <!-- TODO: This line should be updated daily !-->
+- **File version:** `12 (2024, Thursday, August 1st at 04:26 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,027` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `07,116` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `051,931` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `046,563` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `052,820` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -602,7 +605,7 @@ _End of WorldDB Tags_
 
 ---
 
-<details><summary><p lang="en"><b>Version 1 (2024, Sunday, July 21st at 04:54 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+<details><summary><p lang="en"><b>Version 1 (2024, Sunday, July 21st at 04:54 pm PST)</b></p></summary>
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 - **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V1.md)
@@ -662,7 +665,7 @@ _End of WorldDB Tags_
 
 ---
 
-<details><summary><p lang="en"><b>Version 2 (2024, Monday, July 22nd at 02:20 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+<details><summary><p lang="en"><b>Version 2 (2024, Monday, July 22nd at 02:20 pm PST)</b></p></summary>
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 - **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V2.md)
@@ -708,7 +711,7 @@ _End of WorldDB Tags_
 
 ---
 
-<details><summary><p lang="en"><b>Version 3 (2024, Tuesday, July 23rd at 06:59 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+<details><summary><p lang="en"><b>Version 3 (2024, Tuesday, July 23rd at 06:59 pm PST)</b></p></summary>
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 - **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V3.md)
@@ -734,7 +737,7 @@ _End of WorldDB Tags_
 
 ---
 
-<details><summary><p lang="en"><b>Version 4 (2024, Wednesday, July 24th at 04:31 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+<details><summary><p lang="en"><b>Version 4 (2024, Wednesday, July 24th at 04:31 pm PST)</b></p></summary>
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 - **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V4.md)
@@ -760,7 +763,7 @@ _End of WorldDB Tags_
 
 ---
 
-<details><summary><p lang="en"><b>Version 5 (2024, Thursday, July 25th at 05:09 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+<details><summary><p lang="en"><b>Version 5 (2024, Thursday, July 25th at 05:09 pm PST)</b></p></summary>
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 - **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V5.md)
@@ -785,7 +788,7 @@ _End of WorldDB Tags_
 
 ---
 
-<details><summary><p lang="en"><b>Version 6 (2024, Friday, July 26th at 06:32 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+<details><summary><p lang="en"><b>Version 6 (2024, Friday, July 26th at 06:32 pm PST)</b></p></summary>
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 - **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V6.md)
@@ -811,7 +814,7 @@ _End of WorldDB Tags_
 
 ---
 
-<details><summary><p lang="en"><b>Version 7 (2024, Saturday, July 27th at 05:05 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+<details><summary><p lang="en"><b>Version 7 (2024, Saturday, July 27th at 05:05 pm PST)</b></p></summary>
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 - **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V7.md)
@@ -838,7 +841,7 @@ _End of WorldDB Tags_
 
 ---
 
-<details><summary><p lang="en"><b>Version 8 (2024, Sunday, July 28th at 03:42 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+<details><summary><p lang="en"><b>Version 8 (2024, Sunday, July 28th at 03:42 pm PST)</b></p></summary>
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 - **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V8.md)
@@ -867,7 +870,7 @@ _End of WorldDB Tags_
 
 ---
 
-<details><summary><p lang="en"><b>Version 9 (2024, Monday, July 29th at 04:21 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+<details><summary><p lang="en"><b>Version 9 (2024, Monday, July 29th at 04:21 pm PST)</b></p></summary>
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 - **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V9.md)
@@ -893,7 +896,7 @@ _End of WorldDB Tags_
 
 ---
 
-<details><summary><p lang="en"><b>Version 10 (2024, Tuesday, July 30th at 03:10 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+<details><summary><p lang="en"><b>Version 10 (2024, Tuesday, July 30th at 03:10 pm PST)</b></p></summary>
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 - **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V10.md)
@@ -920,7 +923,7 @@ _End of WorldDB Tags_
 
 ---
 
-<details><summary><p lang="en"><b>Version 11 (2024, Wednesday, July 31st at 03:28 pm PST)</b></p></summary> <!-- This section should be updated daily !-->
+<details><summary><p lang="en"><b>Version 11 (2024, Wednesday, July 31st at 03:28 pm PST)</b></p></summary>
 
 - **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 - **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V11.md)
@@ -942,6 +945,30 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 11
 
 </details> <!-- End of file history: version 11 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 12 (2024, Thursday, August 1st at 04:26 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V12.md)
+
+> **Note** _The twelfth version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Asia` sub-sub-subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 12
+- [ ] No other changes in version 12
+
+</details> <!-- End of file history: version 12 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
