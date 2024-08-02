@@ -104,7 +104,7 @@ SQL is used for primary database repositories, and SVG is used for secondary dat
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the WorldDB section</b></p></summary>
 
-> **Repository listing is as of:** `2024, Wednesday, July 31st`
+> **Repository listing is as of:** `2024, Friday, August 2nd`
 
 I am currently working on creating repositories for all countries, going in alphabetical order. I currently expect to be done with this by 2024, November 30th, unless there is a delay.
 
@@ -281,6 +281,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Asia/India 🇮🇳️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_India/)
 - - [:octocat: `DB: Earth/Asia/Indonesia 🇮🇩️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Indonesia/)
 - - [:octocat: `DB: Earth/Asia/Iran 🇮🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iran/)
+- - [:octocat: `DB: Earth/Asia/Iraq 🇮🇶️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iraq/)
 
 </details> <!-- End of Asia section !-->
 
@@ -309,6 +310,8 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Europe/Greece 🇬🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Greece/)
 - - [:octocat: `DB: Earth/Europe/Hungary 🇭🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Hungary/)
 - - [:octocat: `DB: Earth/Europe/Iceland 🇮🇸️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iceland/)
+- - [:octocat: `DB: Earth/Europe/Ireland 🇮🇪️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ireland/)
+- - [:octocat: `DB: Earth/Europe/Isle of man 🇮🇲️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Isle-of-Man/)
 
 </details> <!-- End of Europe section !-->
 
@@ -573,12 +576,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `12 (2024, Thursday, August 1st at 04:26 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,027` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `07,116` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `051,931` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `046,563` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `052,820` <!-- TODO: This line should be updated daily !-->
+- **File version:** `13 (2024, Friday, August 2nd at 03:32 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,055` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `07,297` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `053,181` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `047,646` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `054,094` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -969,6 +972,31 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 12
 
 </details> <!-- End of file history: version 12 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 13 (2024, Friday, August 2nd at 03:32 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V13.md)
+
+> **Note** _The thirteenth version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Asia` sub-sub-subsection
+- - - - [x] Updated the `Europe` sub-sub-subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 13
+- [ ] No other changes in version 13
+
+</details> <!-- End of file history: version 13 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
