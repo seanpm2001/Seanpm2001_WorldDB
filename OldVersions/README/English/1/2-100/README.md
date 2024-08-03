@@ -189,6 +189,7 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Africa/Ghana 🇬🇭️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ghana/)
 - - [:octocat: `DB: Earth/Africa/Guinea 🇬🇳️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guinea/)
 - - [:octocat: `DB: Earth/Africa/Guinea-Bissau 🇬🇼️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guinea-Bissau/)
+- - [:octocat: `DB: Earth/Africa/Ivory Coast 🇨🇮️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ivory-Coast/)
 
 </details> <!-- End of Africa section !-->
 
@@ -239,6 +240,7 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Americas/South America/Guyana 🇬🇾️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guyana/)
 - - [:octocat: `DB: Earth/Americas/South America/Haiti 🇭🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Haiti/)
 - - [:octocat: `DB: Earth/Americas/South America/Honduras 🇭🇳️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Honduras/)
+- - [:octocat: `DB: Earth/Americas/South America/Jamaica 🇯🇲️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Jamaica/)
 
 </details> <!-- End of South America section !-->
 
@@ -282,6 +284,10 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Asia/Indonesia 🇮🇩️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Indonesia/)
 - - [:octocat: `DB: Earth/Asia/Iran 🇮🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iran/)
 - - [:octocat: `DB: Earth/Asia/Iraq 🇮🇶️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iraq/)
+- - [:octocat: `DB: Earth/Asia/Israel 🇮🇱️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Israel/)
+- - [:octocat: `DB: Earth/Asia/Japan 🇯🇵️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Japan/)
+- - [:octocat: `DB: Earth/Asia/Jordan 🇯🇴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Jordan/)
+- - [:octocat: `DB: Earth/Asia/Kazakhstan 🇰🇿️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kazakhstan/)
 
 </details> <!-- End of Asia section !-->
 
@@ -312,6 +318,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Europe/Iceland 🇮🇸️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Iceland/)
 - - [:octocat: `DB: Earth/Europe/Ireland 🇮🇪️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ireland/)
 - - [:octocat: `DB: Earth/Europe/Isle of man 🇮🇲️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Isle-of-Man/)
+- - [:octocat: `DB: Earth/Europe/Italy 🇮🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Italy/)
 
 </details> <!-- End of Europe section !-->
 
@@ -576,12 +583,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `13 (2024, Friday, August 2nd at 03:32 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,055` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `07,297` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `053,181` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `047,646` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `054,094` <!-- TODO: This line should be updated daily !-->
+- **File version:** `14 (2024, Saturday, August 3rd at 04:50 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,089` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `07,550` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `055,028` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `049,282` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `055,997` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -997,6 +1004,33 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 13
 
 </details> <!-- End of file history: version 13 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 14 (2024, Saturday, August 3rd at 04:50 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V14.md)
+
+> **Note** _The fourteenth version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Asia` sub-sub-subsection
+- - - - [x] Updated the `Europe` sub-sub-subsection
+- - - - [x] Updated the `Americas` sub-sub-subsection
+- - - - - [x] Updated the `South America` sub-sub-sub-subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 14
+- [ ] No other changes in version 14
+
+</details> <!-- End of file history: version 14 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
