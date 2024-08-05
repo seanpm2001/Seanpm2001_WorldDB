@@ -104,7 +104,7 @@ SQL is used for primary database repositories, and SVG is used for secondary dat
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the WorldDB section</b></p></summary>
 
-> **Repository listing is as of:** `2024, Sunday, August 4th`
+> **Repository listing is as of:** `2024, Monday, August 5th`
 
 I am currently working on creating repositories for all countries, going in alphabetical order. I currently expect to be done with this by 2024, November 30th, unless there is a delay.
 
@@ -191,6 +191,7 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Africa/Guinea-Bissau 🇬🇼️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guinea-Bissau/)
 - - [:octocat: `DB: Earth/Africa/Ivory Coast 🇨🇮️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ivory-Coast/)
 - - [:octocat: `DB: Earth/Africa/Kenya 🇰🇪️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kenya/)
+- - [:octocat: `DB: Earth/Africa/Lesotho 🇱🇸️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lesotho/)
 
 </details> <!-- End of Africa section !-->
 
@@ -293,6 +294,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Asia/Kuwait 🇰🇼️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kuwait/)
 - - [:octocat: `DB: Earth/Asia/Kyrgyzstan 🇰🇬️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kyrgyzstan/)
 - - [:octocat: `DB: Earth/Asia/Laos 🇱🇦️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Laos/)
+- - [:octocat: `DB: Earth/Asia/Lebanon 🇱🇧️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon/)
 
 </details> <!-- End of Asia section !-->
 
@@ -325,6 +327,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Europe/Isle of man 🇮🇲️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Isle-of-Man/)
 - - [:octocat: `DB: Earth/Europe/Italy 🇮🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Italy/)
 - - [:octocat: `DB: Earth/Europe/Kosovo 🇽🇰️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kosovo/)
+- - [:octocat: `DB: Earth/Europe/Latvia 🇱🇻️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Latvia/)
 
 </details> <!-- End of Europe section !-->
 
@@ -591,12 +594,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `15 (2024, Sunday, August 4th at 02:41 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,124` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `07,801` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `056,880` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `050,920` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `057,929` <!-- TODO: This line should be updated daily !-->
+- **File version:** `16 (2024, Monday, August 5th at 04:12 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,153` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `07,985` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `058,181` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `052,047` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `059,254` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1066,6 +1069,32 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 15
 
 </details> <!-- End of file history: version 15 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 16 (2024, Monday, August 5th at 04:12 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V16.md)
+
+> **Note** _The sixteenth version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Asia` sub-sub-subsection
+- - - - [x] Updated the `Europe` sub-sub-subsection
+- - - - [x] Updated the `Africa` sub-sub-subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 16
+- [ ] No other changes in version 16
+
+</details> <!-- End of file history: version 16 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
