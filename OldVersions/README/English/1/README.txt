@@ -192,6 +192,8 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Africa/Ivory Coast 🇨🇮️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ivory-Coast/)
 - - [:octocat: `DB: Earth/Africa/Kenya 🇰🇪️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kenya/)
 - - [:octocat: `DB: Earth/Africa/Lesotho 🇱🇸️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lesotho/)
+- - [:octocat: `DB: Earth/Africa/Liberia 🇱🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Liberia/)
+- - [:octocat: `DB: Earth/Africa/Libya 🇱🇾️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Libya/)
 
 </details> <!-- End of Africa section !-->
 
@@ -328,6 +330,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Europe/Italy 🇮🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Italy/)
 - - [:octocat: `DB: Earth/Europe/Kosovo 🇽🇰️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kosovo/)
 - - [:octocat: `DB: Earth/Europe/Latvia 🇱🇻️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Latvia/)
+- - [:octocat: `DB: Earth/Europe/Liechtenstein 🇱🇮️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Liechtenstein/)
 
 </details> <!-- End of Europe section !-->
 
@@ -594,12 +597,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `16 (2024, Monday, August 5th at 04:12 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,153` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `07,985` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `058,181` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `052,047` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `059,254` <!-- TODO: This line should be updated daily !-->
+- **File version:** `17 (2024, Tuesday, August 6th at 03:13 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,181` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `08,162` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `059,448` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `053,149` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `060,545` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1095,6 +1098,31 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 16
 
 </details> <!-- End of file history: version 16 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 17 (2024, Tuesday, August 6th at 03:13 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V17.md)
+
+> **Note** _The seventeenth version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Africa` sub-sub-subsection
+- - - - [x] Updated the `Europe` sub-sub-subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 17
+- [ ] No other changes in version 17
+
+</details> <!-- End of file history: version 17 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
