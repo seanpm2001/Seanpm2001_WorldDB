@@ -104,7 +104,7 @@ SQL is used for primary database repositories, and SVG is used for secondary dat
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the WorldDB section</b></p></summary>
 
-> **Repository listing is as of:** `2024, Monday, August 5th`
+> **Repository listing is as of:** `2024, Wednesday, August 7th`
 
 I am currently working on creating repositories for all countries, going in alphabetical order. I currently expect to be done with this by 2024, November 30th, unless there is a delay.
 
@@ -194,6 +194,7 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Africa/Lesotho 🇱🇸️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lesotho/)
 - - [:octocat: `DB: Earth/Africa/Liberia 🇱🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Liberia/)
 - - [:octocat: `DB: Earth/Africa/Libya 🇱🇾️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Libya/)
+- - [:octocat: `DB: Earth/Africa/Madagascar 🇲🇬️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Madagascar/)
 
 </details> <!-- End of Africa section !-->
 
@@ -331,6 +332,9 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Europe/Kosovo 🇽🇰️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kosovo/)
 - - [:octocat: `DB: Earth/Europe/Latvia 🇱🇻️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Latvia/)
 - - [:octocat: `DB: Earth/Europe/Liechtenstein 🇱🇮️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Liechtenstein/)
+- - [:octocat: `DB: Earth/Europe/Latvia 🇱🇻️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Latvia/)
+- - [:octocat: `DB: Earth/Europe/Lithuania 🇱🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lithuania/)
+- - [:octocat: `DB: Earth/Europe/Luxembourg 🇱🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Luxembourg/)
 
 </details> <!-- End of Europe section !-->
 
@@ -339,6 +343,8 @@ _End of Americas section._
 #### Oceania
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Oceania section</b></p></summary>
+
+> [`See def:Oceania`](#Oceania-definition)
 
 - [:octocat: `DB: Earth/Oceania`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Oceania/)
 - - [:octocat: `DB: Earth/Oceania/Australia 🇦🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Australia/)
@@ -493,6 +499,21 @@ _End of Milky Way section._
 
 ---
 
+### Oceania definition
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Def:Oceania section</b></p></summary>
+
+`🌏️ Oceania` is a grouping of countries. It consists of the island/country of `🇦🇺️ Australia` along with all of the islands in Polynesia, Micronesia, Melanesia, and Australasia, and any island country that is not associated with a country on the other 6 continents. Some people simply refer to this as Australia, but I feel Oceania is a better definition. Oceania is a definition that is more common outside of the English-speaking world, and due to how I initially discovered the term in geography, I chose Oceania.
+
+| **Legend** |
+|---|
+| 🌏️ Oceania |
+| 🇦🇺️ Australia |
+
+</details> <!-- End of Def:Oceania section !-->
+
+---
+
 _End of WorldDB section._
 
 </details> <!-- End of WorldDB section !-->
@@ -597,12 +618,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `17 (2024, Tuesday, August 6th at 03:13 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,181` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `08,162` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `059,448` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `053,149` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `060,545` <!-- TODO: This line should be updated daily !-->
+- **File version:** `18 (2024, Wednesday, August 7th at 11:02 am PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,228` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `08,481` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `061,702` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `055,096` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `062,857` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1123,6 +1144,32 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 17
 
 </details> <!-- End of file history: version 17 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 18 (2024, Wednesday, August 7th at 11:02 am PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V18.md)
+
+> **Note** _The eighteenth version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Africa` sub-sub-subsection
+- - - - [x] Updated the `Europe` sub-sub-subsection
+- - [x] Added the `Oceania definition` subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 18
+- [ ] No other changes in version 18
+
+</details> <!-- End of file history: version 18 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
