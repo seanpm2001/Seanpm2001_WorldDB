@@ -196,6 +196,7 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Africa/Libya 🇱🇾️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Libya/)
 - - [:octocat: `DB: Earth/Africa/Madagascar 🇲🇬️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Madagascar/)
 - - [:octocat: `DB: Earth/Africa/Malawi 🇲🇼️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malawi/)
+- - [:octocat: `DB: Earth/Africa/Mali 🇲🇱️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mali/)
 
 </details> <!-- End of Africa section !-->
 
@@ -337,6 +338,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Europe/Latvia 🇱🇻️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Latvia/)
 - - [:octocat: `DB: Earth/Europe/Lithuania 🇱🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lithuania/)
 - - [:octocat: `DB: Earth/Europe/Luxembourg 🇱🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Luxembourg/)
+- - [:octocat: `DB: Earth/Europe/Malta 🇲🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malta/)
 
 </details> <!-- End of Europe section !-->
 
@@ -360,6 +362,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Oceania/Guam 🇬🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Guam/)
 - - [:octocat: `DB: Earth/Oceania/Kiribati 🇰🇮️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kiribati/)
 - - [:octocat: `DB: Earth/Oceania/Maldives 🇲🇻️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Maldives/)
+- - [:octocat: `DB: Earth/Oceania/Marshall Islands 🇲🇭️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Marshall-Islands/)
 
 </details> <!-- End of Oceania section !-->
 
@@ -517,6 +520,22 @@ _End of Milky Way section._
 
 ---
 
+### Globe guide
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Globe guide section</b></p></summary>
+
+| **Globe legend** |
+|---|
+| 🌍️ Europe/Africa |
+| 🌏️ Asia/Oceania |
+| 🌎️ North America/South America |
+| 🗾️ Japan |
+| 🌐️ Antarctica/other |
+
+</details> <!-- End of Globe guide section !-->
+
+---
+
 _End of WorldDB section._
 
 </details> <!-- End of WorldDB section !-->
@@ -533,7 +552,15 @@ Subprojects of the WorldDB project.
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the SVG Map of the world section</b></p></summary>
 
+> Request date: 2024, Thursday, August 8th
+
 A SVG locator map of the entire world, with administrative divisions. It may be built using locator maps of every administrative unit of every country. Will likely require a very powerful computer, as the file will likely come out in the size of multiple gigabytes.
+
+**Variants**
+
+- [ ] Small - Only locator maps of countries are used
+- [ ] Medium - Locator maps of countries and their provinces/states/etc are used **Current priority**
+- [ ] Large - Locator maps of countries, their provinces/states/etc, and their cities are used
 
 </details> <!-- End of SVG Map of the world section !-->
 
@@ -643,12 +670,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `19 (2024, Thursday, August 8th at 02:33 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,281` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `08,795` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `063,833` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `056,921` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `065,012` <!-- TODO: This line should be updated daily !-->
+- **File version:** `20 (2024, Friday, August 9th at 03:48 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,339` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `09,090` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `065,970` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `058,745` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `067,198` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1223,6 +1250,37 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 19
 
 </details> <!-- End of file history: version 19 section !-->
+
+<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 20 (2024, Friday, August 9th at 03:48 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V20.md)
+
+> **Note** _The twentieth version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Africa` sub-sub-subsection
+- - - - [x] Updated the `Europe` sub-sub-subsection
+- - - - [x] Updated the `Oceania` sub-sub-subsection
+- - [x] Added the `Globe guide` subsection
+- [x] Updated the `Subprojects` section
+- - [x] Updated the `SVG Map of the world` subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 20
+- [ ] No other changes in version 20
+
+</details> <!-- End of file history: version 20 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
