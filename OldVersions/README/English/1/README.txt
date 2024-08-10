@@ -197,6 +197,7 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Africa/Madagascar 🇲🇬️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Madagascar/)
 - - [:octocat: `DB: Earth/Africa/Malawi 🇲🇼️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malawi/)
 - - [:octocat: `DB: Earth/Africa/Mali 🇲🇱️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mali/)
+- - [:octocat: `DB: Earth/Africa/Mauritania 🇲🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mauritania/)
 
 </details> <!-- End of Africa section !-->
 
@@ -248,6 +249,7 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Americas/South America/Haiti 🇭🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Haiti/)
 - - [:octocat: `DB: Earth/Americas/South America/Honduras 🇭🇳️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Honduras/)
 - - [:octocat: `DB: Earth/Americas/South America/Jamaica 🇯🇲️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Jamaica/)
+- - [:octocat: `DB: Earth/Americas/South America/Mexico 🇲🇽️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mexico/)
 
 </details> <!-- End of South America section !-->
 
@@ -301,6 +303,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Asia/Laos 🇱🇦️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Laos/)
 - - [:octocat: `DB: Earth/Asia/Lebanon 🇱🇧️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon/)
 - - [:octocat: `DB: Earth/Asia/Malaysia 🇲🇾️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malaysia/)
+- - [:octocat: `DB: Earth/Asia/Mongolia 🇲🇳️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mongolia/)
 
 </details> <!-- End of Asia section !-->
 
@@ -339,6 +342,9 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Europe/Lithuania 🇱🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lithuania/)
 - - [:octocat: `DB: Earth/Europe/Luxembourg 🇱🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Luxembourg/)
 - - [:octocat: `DB: Earth/Europe/Malta 🇲🇹️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malta/)
+- - [:octocat: `DB: Earth/Europe/Moldova 🇲🇩️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Moldova/)
+- - [:octocat: `DB: Earth/Europe/Monaco 🇲🇨️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Monaco/)
+- - [:octocat: `DB: Earth/Europe/Montenegro 🇲🇪️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Montenegro/)
 
 </details> <!-- End of Europe section !-->
 
@@ -363,6 +369,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Oceania/Kiribati 🇰🇮️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kiribati/)
 - - [:octocat: `DB: Earth/Oceania/Maldives 🇲🇻️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Maldives/)
 - - [:octocat: `DB: Earth/Oceania/Marshall Islands 🇲🇭️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Marshall-Islands/)
+- - [:octocat: `DB: Earth/Oceania/Mauritius 🇲🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mauritius/)
 
 </details> <!-- End of Oceania section !-->
 
@@ -511,6 +518,8 @@ _End of Milky Way section._
 
 `🌏️ Oceania` is a grouping of countries. It consists of the island/country of `🇦🇺️ Australia` along with all of the islands in Polynesia, Micronesia, Melanesia, and Australasia, and any island country that is not associated with a country on the other 6 continents. Some people simply refer to this as Australia, but I feel Oceania is a better definition. Oceania is a definition that is more common outside of the English-speaking world, and due to how I initially discovered the term in geography, I chose Oceania.
 
+<!-- NOTE: Do not reverse the order of the legend !-->
+
 | **Legend** |
 |---|
 | 🌏️ Oceania |
@@ -526,10 +535,10 @@ _End of Milky Way section._
 
 | **Globe legend** |
 |---|
-| 🌍️ Europe/Africa |
+| 🌍️ Africa/Europe |
 | 🌏️ Asia/Oceania |
 | 🌎️ North America/South America |
-| 🗾️ Japan |
+| 🗾️ Japan (because an Emoji exists for it) |
 | 🌐️ Antarctica/other |
 
 </details> <!-- End of Globe guide section !-->
@@ -670,12 +679,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `20 (2024, Friday, August 9th at 03:48 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,339` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `09,090` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `065,970` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `058,745` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `067,198` <!-- TODO: This line should be updated daily !-->
+- **File version:** `21 (2024, Saturday, August 10th at 04:10 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,376` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `09,363` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `067,975` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `060,514` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `069,529` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1281,6 +1290,34 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 20
 
 </details> <!-- End of file history: version 20 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 21 (2024, Saturday, August 10th at 04:10 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V21.md)
+
+> **Note** _The twenty-first version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Africa` sub-sub-subsection
+- - - - [x] Updated the `Asia` sub-sub-subsection
+- - - - [x] Updated the `Europe` sub-sub-subsection
+- - - - [x] Updated the `Oceania` sub-sub-subsection
+- - [x] Updated the `Globe guide` subsection, minor changes
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 21
+- [ ] No other changes in version 21
+
+</details> <!-- End of file history: version 21 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
