@@ -198,6 +198,9 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Africa/Malawi 🇲🇼️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malawi/)
 - - [:octocat: `DB: Earth/Africa/Mali 🇲🇱️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mali/)
 - - [:octocat: `DB: Earth/Africa/Mauritania 🇲🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mauritania/)
+- - [:octocat: `DB: Earth/Africa/Morocco 🇲🇦️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Morocco/)
+- - [:octocat: `DB: Earth/Africa/Mozambique 🇲🇿️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mozambique/)
+- - [:octocat: `DB: Earth/Africa/Namibia 🇳🇦️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Namibia/)
 
 </details> <!-- End of Africa section !-->
 
@@ -250,6 +253,7 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Americas/South America/Honduras 🇭🇳️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Honduras/)
 - - [:octocat: `DB: Earth/Americas/South America/Jamaica 🇯🇲️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Jamaica/)
 - - [:octocat: `DB: Earth/Americas/South America/Mexico 🇲🇽️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mexico/)
+- - [:octocat: `DB: Earth/Americas/South America/Montserrat 🇲🇸️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Montserrat/)
 
 </details> <!-- End of South America section !-->
 
@@ -304,6 +308,8 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Asia/Lebanon 🇱🇧️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lebanon/)
 - - [:octocat: `DB: Earth/Asia/Malaysia 🇲🇾️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Malaysia/)
 - - [:octocat: `DB: Earth/Asia/Mongolia 🇲🇳️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mongolia/)
+- - [:octocat: `DB: Earth/Asia/Myanmar 🇲🇲️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Myanmar/)
+- - [:octocat: `DB: Earth/Asia/Nepal 🇳🇵️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nepal/)
 
 </details> <!-- End of Asia section !-->
 
@@ -370,6 +376,7 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Oceania/Maldives 🇲🇻️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Maldives/)
 - - [:octocat: `DB: Earth/Oceania/Marshall Islands 🇲🇭️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Marshall-Islands/)
 - - [:octocat: `DB: Earth/Oceania/Mauritius 🇲🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mauritius/)
+- - [:octocat: `DB: Earth/Oceania/Nauru 🇳🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nauru/)
 
 </details> <!-- End of Oceania section !-->
 
@@ -529,11 +536,25 @@ _End of Milky Way section._
 
 ---
 
-### Globe guide
+### Legend
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Legend section</b></p></summary>
+
+A set of legends for this project.
+
+---
+
+#### Globe guide
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Globe guide section</b></p></summary>
 
-| **Globe legend** |
+Guide to globes and planets.
+
+---
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Globe legend (Earth) table</b></p></summary>
+
+| **Globe legend (Earth)** |
 |---|
 | 🌍️ Africa/Europe |
 | 🌏️ Asia/Oceania |
@@ -541,7 +562,107 @@ _End of Milky Way section._
 | 🗾️ Japan (because an Emoji exists for it) |
 | 🌐️ Antarctica/other |
 
-</details> <!-- End of Globe guide section !-->
+</details> <!-- End of Globe Legend (Earth) table !-->
+
+---
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Globe legend (Milky Way Galaxy) table</b></p></summary>
+
+| **Globe legend (Milky Way Galaxy)** |
+|---|
+| 🌐️ Earth |
+| 🪐️ Planets |
+| ⭐️ Sun |
+
+</details> <!-- End of Globe Legend (Milky Way Galaxy) table !-->
+
+---
+
+_End of globe guide_
+
+</details> <!-- End of globe guide section !-->
+
+---
+
+#### Space guide
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Space guide section</b></p></summary>
+
+Guide to space.
+
+---
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Space legend (General) table</b></p></summary>
+
+| **Space legend (general)** |
+|---|
+| ☄️ Comet/Asteroid/Dwarf planet |
+| 🪐️ Planet |
+| ⭐️ Star |
+| 🌌️ Galaxy |
+| 🌠️ Universe |
+
+</details> <!-- End of Space guide (General) table !-->
+
+---
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Moon legend table</b></p></summary>
+
+| **Moon legend** |
+|---|
+| 🌑️ Definition coming soon |
+| 🌘️ Definition coming soon |
+| 🌗️ Definition coming soon |
+| 🌖️ Definition coming soon |
+| 🌕️ Definition coming soon |
+| 🌔️ Definition coming soon |
+| 🌓️ Definition coming soon |
+| 🌒️ Definition coming soon |
+| 🌚️ Definition coming soon |
+| 🌙️ Definition coming soon |
+| 🌛️ Definition coming soon |
+| 🌜️ Definition coming soon |
+
+</details> <!-- End of Moon legend table !-->
+
+---
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Sun legend table</b></p></summary>
+
+| **Sun legend** |
+|---|
+| 🌞️ Definition coming soon |
+| ☀️ Definition coming soon |
+| 🌝️ Definition coming soon |
+| 🌞️ Definition coming soon |
+
+</details> <!-- End of Sun legend table !-->
+
+---
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Miscellaneous legend table</b></p></summary>
+
+| **Miscellaneous legend** |
+|---|
+| 🌟️ Definition coming soon |
+| 🚀️ Definition coming soon |
+| 🛰️ Definition coming soon |
+| 🛸️ Definition coming soon |
+| 🗺️ Definition coming soon |
+
+</details> <!-- End of Miscellaneous legend table !-->
+
+---
+
+_End of space guide._
+
+</details> <!-- End of Space guide section !-->
+
+---
+
+_End of legend._
+
+</details> <!-- End of Legend section !-->
 
 ---
 
@@ -654,6 +775,7 @@ _End of WorldDB Tags_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary> <!-- This section should be updated daily !-->
 
+- [ ] A way to deal with transcontinental countries (separate sections)
 - [ ] Subregions
 - [x] Original plans for ISO codes and administrative units
 - [x] More flag Emojis
@@ -679,12 +801,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `21 (2024, Saturday, August 10th at 04:10 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,376` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `09,363` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `067,975` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `060,514` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `069,529` <!-- TODO: This line should be updated daily !-->
+- **File version:** `22 (2024, Sunday, August 11th at 04:55 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,527` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `09,986` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `072,610` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `064,470` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `074,091` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1318,6 +1440,35 @@ _End of WorldDB Tags_
 - [ ] No other changes in version 21
 
 </details> <!-- End of file history: version 21 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 22 (2024, Sunday, August 11th at 04:55 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V22.md)
+
+> **Note** _The twenty-second version of the README, just keeping the file up to date. A major update was also done today, as I felt like it._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the `Africa` sub-sub-subsection
+- - - - [x] Updated the `Asia` sub-sub-subsection
+- - - - [x] Updated the `Oceania` sub-sub-subsection
+- - [x] Renamed the `Globe guide` section to `Legend` and did a major update
+- - - [x] Added the `Globe guide` subsection
+- - - [x] Added the `Space guide` subsection
+- [x] Updated the `file info` section 
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 22
+- [ ] No other changes in version 22
+
+</details> <!-- End of file history: version 22 section !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
