@@ -108,7 +108,7 @@ SQL is used for primary database repositories, and SVG is used for secondary dat
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the WorldDB section</b></p></summary>
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 I am currently working on creating repositories for all countries, going in alphabetical order. I currently expect to be done with this by 2024, November 30th, unless there is a delay.
 
@@ -134,7 +134,7 @@ I am currently working on creating repositories for all countries, going in alph
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Kuiper Belt`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Kuiper-Belt/)
 
@@ -152,7 +152,7 @@ I am currently working on creating repositories for all countries, going in alph
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Pluto`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Pluto/)
 
@@ -180,7 +180,7 @@ _End of Kuiper Belt section._
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Milky Way`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Milky-Way/)
 
@@ -215,22 +215,22 @@ _End of Kuiper Belt section._
 
 | Continent | Country count | Repository count | As of |
 |---|---|---|---|
-| [🌍️ Africa](#Africa) | 39 | 40 | 2024, August 23rd |
-| [🌎️ North America](#North-America) | 6 | 7 | 2024, August 23rd |
-| [🌎️ South America](#South-America) | 27 | 28 | 2024, August 23rd |
-| [🌐️ Antarctica](#Antarctica) | 0 | 1 | 2024, August 23rd |
-| [🌏️ Asia](#Asia) | 42 | 43 | 2024, August 23rd |
-| [🌍️ Europe](#Europe) | 41 | 42 | 2024, August 23rd |
-| [🌏️ Oceania](#Oceania) | 26 | 27 | 2024, August 23rd |
-| 🌐️ Other (Earth, Moon) | 0 | 3 | 2024, August 23rd |
-| 🌐️ Other (Afro-Eurasia; grouping) | 0 | 1 | 2024, August 23rd |
-| 🌐️ Other (Eurasia; grouping) | 0 | 1 | 2024, August 23rd |
-| 🌐️ Other (Former countries) | 2 | 3 | 2024, August 23rd |
-| **🌐️ World total** | 178 | 192 | 2024, August 23rd |
+| [🌍️ Africa](#Africa) | 42 | 43 | 2024, August 24th |
+| [🌎️ North America](#North-America) | 6 | 7 | 2024, August 24th |
+| [🌎️ South America](#South-America) | 27 | 28 | 2024, August 24th |
+| [🌐️ Antarctica](#Antarctica) | 0 | 1 | 2024, August 24th |
+| [🌏️ Asia](#Asia) | 44 | 45 | 2024, August 24th |
+| [🌍️ Europe](#Europe) | 41 | 42 | 2024, August 24th |
+| [🌏️ Oceania](#Oceania) | 28 | 29 | 2024, August 24th |
+| 🌐️ Other (Earth, Moon) | 0 | 3 | 2024, August 24th |
+| 🌐️ Other (Afro-Eurasia; grouping) | 0 | 1 | 2024, August 24th |
+| 🌐️ Other (Eurasia; grouping) | 0 | 1 | 2024, August 24th |
+| 🌐️ Other (Former countries) | 2 | 3 | 2024, August 24th |
+| **🌐️ World total** | 185 | 199 | 2024, August 24th |
 
-> Count: 178/179 countries, 192 repositories
+> Count: 185/187 countries, 199 repositories
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Earth`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth/)
 - - [:octocat: `DB: Earth/FolderArt`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_FolderArt/)
@@ -255,7 +255,7 @@ _End of Kuiper Belt section._
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Earth (moon)`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth-Moon/)
 
@@ -315,9 +315,9 @@ _End of Kuiper Belt section._
 
 </details> <!-- End of image !-->
 
-> Count: 38 countries, 39 repositories
+> Count: 41 countries, 42 repositories
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Earth/Africa`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Africa/)
 - - [:octocat: `DB: Earth/Africa/Algeria 🇩🇿️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Algeria/)
@@ -359,6 +359,9 @@ _End of Kuiper Belt section._
 - - [:octocat: `DB: Earth/Africa/Rwanda 🇷🇼️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Rwanda/)
 - - [:octocat: `DB: Earth/Africa/Senegal 🇸🇳️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Senegal/)
 - - [:octocat: `DB: Earth/Africa/Sierra Leone 🇸🇱️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sierra-Leone/)
+- - [:octocat: `DB: Earth/Africa/Somalia 🇸🇴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Somalia/)
+- - [:octocat: `DB: Earth/Africa/Somaliland 🇸🇴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Somaliland/) [`[1]`](#AFRICA1)
+- - [:octocat: `DB: Earth/Africa/South Africa 🇿🇦️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Africa/)
 
 </details> <!-- End of Africa section !-->
 
@@ -380,7 +383,7 @@ _End of Kuiper Belt section._
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Earth/Americas`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Americas/)
 
@@ -409,7 +412,7 @@ _End of Kuiper Belt section._
 
 > Count: 6 countries, 7 repositories
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Earth/Americas/North America`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_North-America/)
 - - [:octocat: `DB: Earth/Americas/North America/Canada 🇨🇦️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Canada/)
@@ -446,7 +449,7 @@ _End of Kuiper Belt section._
 
 > Count: 27 countries, 28 repositories
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Earth/Americas/South America`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-America/)
 - - [:octocat: `DB: Earth/Americas/South America/Anguilla 🇦🇮️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Anguilla/)
@@ -512,7 +515,7 @@ _End of Americas section._
 
 > Count: 0 countries, 1 repository
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Earth/Antarctica`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Antarctica/)
 
@@ -550,9 +553,9 @@ _End of Americas section._
 
 </details> <!-- End of image !-->
 
-> Count: 42 countries, 43 repositories
+> Count: 44 countries, 45 repositories
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Earth/Asia`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Asia/)
 - - [:octocat: `DB: Earth/Asia/Afghanistan 🇦🇫️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Afghanistan/)
@@ -597,6 +600,8 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Asia/Russia 🇷🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Russia/) [`[9]`](#ASIA9)
 - - [:octocat: `DB: Earth/Asia/Saudi Arabia 🇸🇦️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saudi-Arabia/)
 - - [:octocat: `DB: Earth/Asia/Singapore 🇸🇬️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Singapore/)
+- - [:octocat: `DB: Earth/Asia/South Korea 🇰🇷️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Korea/)
+- - [:octocat: `DB: Earth/Asia/South Ossetia 🇬🇪️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Ossetia/) [`[10]`](#ASIA10)
 
 </details> <!-- End of Asia section !-->
 
@@ -634,7 +639,7 @@ _End of Americas section._
 
 > Count: 41 countries, 42 repositories
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Earth/Europe`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Europe/)
 - - [:octocat: `DB: Earth/Europe/Albania 🇦🇱️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Albania/)
@@ -708,9 +713,9 @@ _End of Americas section._
 
 > [`See def:Oceania`](#Oceania-definition)
 
-> Count: 26 countries, 27 repositories
+> Count: 28 countries, 29 repositories
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Earth/Oceania`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Oceania/)
 - - [:octocat: `DB: Earth/Oceania/Australia 🇦🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Australia/)
@@ -739,6 +744,8 @@ _End of Americas section._
 - - [:octocat: `DB: Earth/Oceania/Samoa 🇼🇸️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Samoa/)
 - - [:octocat: `DB: Earth/Oceania/São Tomé and Príncipe 🇸🇹`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sao-Tome-and-Príncipe/)
 - - [:octocat: `DB: Earth/Oceania/Seychelles 🇸🇨️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Seychelles/)
+- - [:octocat: `DB: Earth/Oceania/Soloman Islands 🇸🇧️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Soloman-Islands/)
+- - [:octocat: `DB: Earth/Oceania/South Georgia and the South Sandwich Islands 🇬🇸️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Georgia-and-the-South-Sandwich-Islands/)
 
 </details> <!-- End of Oceania section !-->
 
@@ -763,7 +770,7 @@ _End of Americas section._
 
 > Count: 0 countries, 1 repository
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 See:
 
@@ -790,7 +797,7 @@ See:
 
 > Count: 0 countries, 1 repository
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 See:
 
@@ -821,7 +828,7 @@ _End of groupings section._
 
 > Count: 2 former countries, 2 repositories
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Earth/Former countries/Abkhazia 🇬🇪️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Abkhazia-_-FormerCountry/) [`[1]`](#FC1)
 - [:octocat: `DB: Earth/Former countries/Artsakh 🇦🇲️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Artsakh/) [`[2]`](#FC2)
@@ -845,6 +852,18 @@ _End of Earth section._
 #### References
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the References section</b></p></summary>
+
+---
+
+##### Africa
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Africa references section</b></p></summary>
+
+###### AFRICA1
+
+- 1. [AFRICA, note 1] Recognized by most countries as a part of Somalia. Somaliland is a breakaway region.
+
+</details> <!-- End of Africa reference section !-->
 
 ---
 
@@ -887,6 +906,10 @@ _End of Earth section._
 ###### ASIA9
 
 - 9. [ASIA, note 9] Due to difficulties with listing transcontinental countries, Russia is included in the Asia category, but not the Europe category (even though its capital city and most of its population is in Europe) as the majority of Russia lies in Asia.
+
+###### ASIA10
+
+- 10. [ASIA, note 10] Recognized by most countries as part of the country Georgia. Russia invaded Georgia in 2008 and set up the breakaway state of South Ossetia.
 
 </details> <!-- End of Asia reference section !-->
 
@@ -931,7 +954,7 @@ _End of references section._
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Jupiter`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Jupiter/)
 
@@ -956,7 +979,7 @@ _End of references section._
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Neptune`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Neptune/)
 
@@ -981,7 +1004,7 @@ _End of references section._
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Mars`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Mars/)
 
@@ -1006,7 +1029,7 @@ _End of references section._
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Mercury`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Mercury/)
 
@@ -1031,7 +1054,7 @@ _End of references section._
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Saturn`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Saturn/)
 
@@ -1056,7 +1079,7 @@ _End of references section._
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Uranus`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Uranus/)
 
@@ -1081,7 +1104,7 @@ _End of references section._
 
 </details> <!-- End of image !-->
 
-> **Repository listing is as of:** `2024, Friday, August 23rd`
+> **Repository listing is as of:** `2024, Saturday, August 24th`
 
 - [:octocat: `DB: Venus`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Venus/)
 
@@ -1384,12 +1407,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `34 (2024, Friday, August 23rd at 01:36 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `02,942` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `18,287` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `132,422` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `114,433` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `134,525` <!-- TODO: This line should be updated daily !-->
+- **File version:** `35 (2024, Saturday, August 24th at 04:01 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `03,039` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `18,931` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `137,219` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `118,465` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `139,378` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2880,6 +2903,80 @@ oc1
 - [ ] No other changes in version 34
 
 </details> <!-- End of file history: version 34 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 35 (2024, Saturday, August 24th at 04:01 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/2-100/README_V35.md)
+
+> **Note** _The thirty-fifth version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Kuiper Belt` subsection
+- - - [x] Updated the counter
+- - - [x] Updated the `Pluto` section
+- - - - [x] Updated the counter
+- - [x] Updated the `Milky Way` subsection
+- - - [x] Updated the counter
+- - - [x] Updated the `Earth` sub-subsection
+- - - - [x] Updated the counter
+- - - - [x] Updated the `Earth index` section
+- - - - [x] Updated the `Africa` sub-sub-subsection
+- - - - - [x] Added 3 new countries to the list
+- - - - - [x] Updated the country/repository counter
+- - - - [x] Updated the `Americas` sub-sub-subsection
+- - - - - [x] Updated the `South America` sub-sub-sub-subsection
+- - - - - - [x] Added 0 new countries to the list
+- - - - - - [x] Updated the country/repository counter
+- - - - - [x] Updated the `North America` sub-sub-sub-subsection
+- - - - - - [x] Added 0 new countries to the list
+- - - - - - [x] Updated the country/repository counter
+- - - - [x] Updated the `Oceania` sub-sub-subsection
+- - - - - [x] Added 2 new countries to the list
+- - - - - [x] Updated the country/repository counter
+- - - - [x] Updated the `Europe` sub-sub-subsection
+- - - - - [x] Added 0 new countries to the list
+- - - - - [x] Updated the country/repository counter
+- - - - [x] Updated the `Asia` sub-sub-subsection
+- - - - - [x] Added 2 new countries to the list
+- - - - - [x] Updated the country/repository counter
+- - - - [x] Updated the `Antarctica` sub-sub-subsection
+- - - - - [x] Added 0 new countries to the list
+- - - - - [x] Updated the country/repository counter
+- - - - [x] Updated the `Former countries` sub-sub-subsection
+- - - - - [x] Added 0 new countries to the list
+- - - - - [x] Updated the country/repository counter
+- - - [x] Updated the `Jupiter` section
+- - - - - [x] Updated the country/repository counter
+- - - [x] Updated the `Neptune` section
+- - - - - [x] Updated the country/repository counter
+- - - [x] Updated the `Mars` section
+- - - - - [x] Updated the country/repository counter
+- - - [x] Updated the `Mercury` section
+- - - - - [x] Updated the country/repository counter
+- - - [x] Updated the `Saturn` section
+- - - - - [x] Updated the country/repository counter
+- - - [x] Updated the `Uranus` section
+- - - - - [x] Updated the country/repository counter
+- - - [x] Updated the `Venus` section
+- - - - - [x] Updated the country/repository counter
+- [x] Updated the `References` section
+- - [x] Created the `Africa references` section
+- - - [x] Added 1 reference to the Africa reference section
+- - [x] Updated the `Asia references` section
+- - - [x] Added 1 reference to the Asia reference section
+- [x] Updated the `file info` section
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 35
+- [ ] No other changes in version 35
+
+</details> <!-- End of file history: version 35 section !-->
 
 ---
 
