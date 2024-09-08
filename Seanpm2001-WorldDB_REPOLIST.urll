@@ -7,7 +7,7 @@
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (268)
+//// Seanpm2001-WorldDB (275)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -276,20 +276,27 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Confederate-States-of-
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Dutch-East-India-Company-_-FormerCountry
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-Germany-_-FormerCountry
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-India-Company-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Empire-of-Japan-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Estonian-Soviet-Socialist-Republic-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Fascist-Italy-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_First-Syrian-Republic-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_FolderArt-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_French-Empire-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_German-Empire-_-FormerCountry
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 268
-//// 268+0
+//// Repo count (WorldDB): 275
+//// 275+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 268
-//// 268+0
+//// Total repo count: 275
+//// 275+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 47 (2024, Friday, September 6th at 07:38 pm PST)
-//// Line count (including blank lines and compiler line): 296
+//// File version: 48 (2024, Saturday, September 7th at 07:26 pm PST)
+//// Line count (including blank lines and compiler line): 303
 //// ----------------------------------------------------- \\\\
 
 //// End of file
