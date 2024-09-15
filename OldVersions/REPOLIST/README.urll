@@ -7,7 +7,7 @@
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (297)
+//// Seanpm2001-WorldDB (304)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -305,20 +305,27 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Qajar-Iran-_-FormerCou
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Qing-Dynasty-China-_-FormerCountry
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Republic-of-China-_-FormerCountry
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Roman-Empire-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Roman-Republic-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Russian-Empire-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Vietnam-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Yemen-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Soviet-Union-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Swedish-Empire-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tsardom-of-Russia-_-FormerCountry
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 297
-//// 297+0
+//// Repo count (WorldDB): 304
+//// 304+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 297
-//// 297+0
+//// Total repo count: 304
+//// 304+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 54 (2024, Friday, September 13th at 05:40 pm PST)
-//// Line count (including blank lines and compiler line): 325
+//// File version: 55 (2024, Saturday, September 14th at 06:38 pm PST)
+//// Line count (including blank lines and compiler line): 332
 //// ----------------------------------------------------- \\\\
 
 //// End of file
