@@ -7,7 +7,7 @@
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (304)
+//// Seanpm2001-WorldDB (311)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -312,20 +312,27 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Yemen-_-FormerCo
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Soviet-Union-_-FormerCountry
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Swedish-Empire-_-FormerCountry
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tsardom-of-Russia-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-Peoples-Republic-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-Soviet-Socialist-Republic-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vichy-France-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Weimar-Republic-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_West-Germany-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Yugoslavia-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 304
-//// 304+0
+//// Repo count (WorldDB): 311
+//// 311+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 304
-//// 304+0
+//// Total repo count: 311
+//// 311+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 55 (2024, Saturday, September 14th at 06:38 pm PST)
-//// Line count (including blank lines and compiler line): 332
+//// File version: 56 (2024, Sunday, September 15th at 07:30 pm PST)
+//// Line count (including blank lines and compiler line): 339
 //// ----------------------------------------------------- \\\\
 
 //// End of file
