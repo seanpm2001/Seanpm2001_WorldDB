@@ -7,7 +7,7 @@
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (317)
+//// Seanpm2001-WorldDB (320)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -325,20 +325,23 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Africa_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Oceania_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Americas_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_North-America_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-America_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Europe_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Eurasia_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 317
-//// 317+0
+//// Repo count (WorldDB): 320
+//// 320+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 317
-//// 317+0
+//// Total repo count: 320
+//// 320+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 58 (2024, Tuesday, September 17th at 05:10 pm PST)
-//// Line count (including blank lines and compiler line): 345
+//// File version: 59 (2024, Wednesday, September 18th at 08:08 pm PST)
+//// Line count (including blank lines and compiler line): 348
 //// ----------------------------------------------------- \\\\
 
 //// End of file
