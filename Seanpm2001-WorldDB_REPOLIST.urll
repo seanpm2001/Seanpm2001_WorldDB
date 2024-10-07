@@ -7,7 +7,7 @@
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (386)
+//// Seanpm2001-WorldDB (393)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -394,20 +394,27 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_El-Salvador_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Equatorial-Guinea_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Eritrea_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Estonia_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Eswatini_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ethiopia_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Falkland-Islands_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Federated-States-of-Micronesia_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Fiji_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Finland_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_FolderArt_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 386
-//// 386+0
+//// Repo count (WorldDB): 393
+//// 393+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 386
-//// 386+0
+//// Total repo count: 393
+//// 393+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 76 (2024, Saturday, October 5th at 03:14 pm PST)
-//// Line count (including blank lines and compiler line): 414
+//// File version: 77 (2024, Sunday, October 6th at 08:15 pm PST)
+//// Line count (including blank lines and compiler line): 421
 //// ----------------------------------------------------- \\\\
 
 //// End of file
