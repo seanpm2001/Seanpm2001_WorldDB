@@ -7,7 +7,7 @@
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (467)
+//// Seanpm2001-WorldDB (477)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -472,20 +472,30 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Norway_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Oman_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Pakistan_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Palau_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Palestine_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Panama_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Papua-New-Guinea_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Paraguay_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of-China_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peru_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Phillipines_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nepal_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_New-Zealand_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nicaragua_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 467
-//// 467+0
+//// Repo count (WorldDB): 477
+//// 477+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 467
-//// 467+0
+//// Total repo count: 477
+//// 477+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 95 (2024, Saturday, October 26th at 06:17 pm PST)
-//// Line count (including blank lines and compiler line): 492
+//// File version: 96 (2024, Sunday, October 27th at 01:49 pm PST)
+//// Line count (including blank lines and compiler line): 502
 //// ----------------------------------------------------- \\\\
 
 //// End of file
