@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2024, Friday, November 1st
+//// As of 2024, Saturday, November 2nd
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (492)
+//// Seanpm2001-WorldDB (499)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -498,20 +498,27 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saint-Lucia_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saint-Vincent-and-the-Grenadines_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Samoa_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_San-Marino_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Singapore_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Slovakia_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Slovenia_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Soloman-Islands_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Somalia_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Somaliland_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Africa_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 492
-//// 492+0
+//// Repo count (WorldDB): 499
+//// 499+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 492
-//// 492+0
+//// Total repo count: 499
+//// 499+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 101 (2024, Friday, November 1st at 07:33 pm PST)
-//// Line count (including blank lines and compiler line): 518
+//// File version: 102 (2024, Saturday, November 2nd at 07:47 pm PST)
+//// Line count (including blank lines and compiler line): 525
 //// ----------------------------------------------------- \\\\
 
 //// End of file
