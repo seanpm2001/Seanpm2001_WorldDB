@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2024, Saturday, November 2nd
+//// As of 2024, Sunday, November 3rd
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (499)
+//// Seanpm2001-WorldDB (509)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -505,20 +505,30 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Soloman-Islands_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Somalia_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Somaliland_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Africa_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sao-Tome-and-Príncipe_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Saudi-Arabia_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Scotland_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Senegal_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Serbia_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Seychelles_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sierra-Leone_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Niger_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nigeria_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Niue_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 499
-//// 499+0
+//// Repo count (WorldDB): 509
+//// 509+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 499
-//// 499+0
+//// Total repo count: 509
+//// 509+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 102 (2024, Saturday, November 2nd at 07:47 pm PST)
-//// Line count (including blank lines and compiler line): 525
+//// File version: 103 (2024, Sunday, November 3rd at 05:08 pm PST)
+//// Line count (including blank lines and compiler line): 535
 //// ----------------------------------------------------- \\\\
 
 //// End of file
