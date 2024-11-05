@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2024, Monday, November 4th
+//// As of 2024, Tuesday, November 5th
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (512)
+//// Seanpm2001-WorldDB (515)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -518,20 +518,23 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Niue_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Georgia-and-the-South-Sandwich-Islands_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Korea_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Ossetia_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Sudan_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Spain_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sri-Lanka_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 512
-//// 512+0
+//// Repo count (WorldDB): 515
+//// 515+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 512
-//// 512+0
+//// Total repo count: 515
+//// 515+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 104 (2024, Monday, November 4th at 08:14 pm PST)
-//// Line count (including blank lines and compiler line): 538
+//// File version: 105 (2024, Tuesday, November 5th at 01:27 pm PST)
+//// Line count (including blank lines and compiler line): 541
 //// ----------------------------------------------------- \\\\
 
 //// End of file
