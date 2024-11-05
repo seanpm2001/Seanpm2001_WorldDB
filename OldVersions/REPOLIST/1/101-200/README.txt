@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2024, Sunday, November 3rd
+//// As of 2024, Monday, November 4th
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (509)
+//// Seanpm2001-WorldDB (512)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -515,20 +515,23 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sierra-Leone_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Niger_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nigeria_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Niue_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Georgia-and-the-South-Sandwich-Islands_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Korea_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Ossetia_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 509
-//// 509+0
+//// Repo count (WorldDB): 512
+//// 512+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 509
-//// 509+0
+//// Total repo count: 512
+//// 512+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 103 (2024, Sunday, November 3rd at 05:08 pm PST)
-//// Line count (including blank lines and compiler line): 535
+//// File version: 104 (2024, Monday, November 4th at 08:14 pm PST)
+//// Line count (including blank lines and compiler line): 538
 //// ----------------------------------------------------- \\\\
 
 //// End of file
