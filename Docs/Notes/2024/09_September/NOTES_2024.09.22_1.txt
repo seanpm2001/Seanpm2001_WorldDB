@@ -1,0 +1,6 @@
+Seanpm2001_WorldDB_DB_Earth_Artsakh_Docs AS
+Seanpm2001_WorldDB_DB_Earth_Ascension-Island_Docs OC
+Seanpm2001_WorldDB_DB_Earth_Australia_Docs OC
+Seanpm2001_WorldDB_DB_Earth_Austria_Docs EU
+Seanpm2001_WorldDB_DB_Earth_Azerbaijan_Docs AS
+Seanpm2001_WorldDB_DB_Earth_Bahrain_Docs AS

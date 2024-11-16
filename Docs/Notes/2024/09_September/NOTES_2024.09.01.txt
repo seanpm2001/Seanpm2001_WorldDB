@@ -1,0 +1,11 @@
+Seanpm2001_WorldDB_DB_Earth_United-Kingdom EUROPE
+Seanpm2001_WorldDB_DB_Earth_United-States-of-America N AMERICA
+Seanpm2001_WorldDB_DB_Earth_Uruguay S AMERICA
+Seanpm2001_WorldDB_DB_Earth_Uzbekistan ASIA
+Seanpm2001_WorldDB_DB_Earth_Vanuatu OCEANIA
+Seanpm2001_WorldDB_DB_Earth_Vatican-City EUROPE
+Seanpm2001_WorldDB_DB_Earth_Venezuela S AMERICA
+
+israel 3
+kurdistan 4
+northern cyprus 5

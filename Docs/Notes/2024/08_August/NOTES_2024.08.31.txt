@@ -1,0 +1,7 @@
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Turkey ASIA
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Turkmenistan ASIA 
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Turks-and-Caicos-Islands OCEANIA
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tuvalu OCEANIA
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Uganda AFRICA
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukraine EUROPE
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_United-Arab-Emirates ASIA

@@ -1,0 +1,7 @@
+Seanpm2001_WorldDB_DB_Earth_Roman-Republic-_-FormerCountry (Transcontinental)
+Seanpm2001_WorldDB_DB_Earth_Russian-Empire-_-FormerCountry (Transcontinental)
+Seanpm2001_WorldDB_DB_Earth_South-Vietnam-_-FormerCountry (Asia)
+Seanpm2001_WorldDB_DB_Earth_South-Yemen-_-FormerCountry (Asia)
+Seanpm2001_WorldDB_DB_Earth_Soviet-Union-_-FormerCountry (Transcontinental)
+Seanpm2001_WorldDB_DB_Earth_Swedish-Empire-_-FormerCountry (Europe)
+Seanpm2001_WorldDB_DB_Earth_Tsardom-of-Russia-_-FormerCountry (Transcontinental)

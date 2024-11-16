@@ -1,0 +1,3 @@
+Seanpm2001_WorldDB_DB_Earth_Tanzania AFRICA
+Seanpm2001_WorldDB_DB_Earth_Thailand ASIA
+Seanpm2001_WorldDB_DB_Earth_The-Bahamas OCEANIA

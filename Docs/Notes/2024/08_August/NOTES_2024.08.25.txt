@@ -1,0 +1,7 @@
+Seanpm2001_WorldDB_DB_Earth_South-Sudan AFRICA
+Seanpm2001_WorldDB_DB_Earth_Spain EUROPE
+Seanpm2001_WorldDB_DB_Earth_Sri-Lanka ASIA
+Seanpm2001_WorldDB_DB_Earth_Sudan AFRICA
+Seanpm2001_WorldDB_DB_Earth_Super-Korea ASIA
+Seanpm2001_WorldDB_DB_Earth_Suriname S AMERICA
+Seanpm2001_WorldDB_DB_Earth_Sweden EUROPE

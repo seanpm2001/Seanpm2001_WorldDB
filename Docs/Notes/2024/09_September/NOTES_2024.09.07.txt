@@ -1,0 +1,7 @@
+Seanpm2001_WorldDB_DB_Earth_Empire-of-Japan-_-FormerCountry (Asia)
+Seanpm2001_WorldDB_DB_Earth_Estonian-Soviet-Socialist-Republic-_-FormerCountry (Europe)
+Seanpm2001_WorldDB_DB_Earth_Fascist-Italy-_-FormerCountry (Transcontinental)
+Seanpm2001_WorldDB_DB_Earth_First-Syrian-Republic-_-FormerCountry (Asia)
+Seanpm2001_WorldDB_DB_Earth_FolderArt-_-FormerCountry (None)
+Seanpm2001_WorldDB_DB_Earth_French-Empire-_-FormerCountry (Europe)
+Seanpm2001_WorldDB_DB_Earth_German-Empire-_-FormerCountry (Transcontinental)

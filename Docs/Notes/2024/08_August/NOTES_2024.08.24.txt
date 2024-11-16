@@ -1,0 +1,7 @@
+Seanpm2001_WorldDB_DB_Earth_Soloman-Islands  OCEANIA
+Seanpm2001_WorldDB_DB_Earth_Somalia AFRICA
+Seanpm2001_WorldDB_DB_Earth_Somaliland AFRICA
+Seanpm2001_WorldDB_DB_Earth_South-Africa AFRICA
+Seanpm2001_WorldDB_DB_Earth_South-Georgia-and-the-South-Sandwich-Islands OCEANIA
+Seanpm2001_WorldDB_DB_Earth_South-Korea ASIA
+Seanpm2001_WorldDB_DB_Earth_South-Ossetia ASIA
