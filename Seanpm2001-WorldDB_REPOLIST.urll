@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2024, Friday, November 15th
+//// As of 2024, Saturday, November 16th
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (553)
+//// Seanpm2001-WorldDB (560)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -559,20 +559,27 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Wales_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_West-Sahara_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Yemen_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Zambia_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Zimbabwe_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Achaemenid-Empire_Persian-Empire-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_All-Palestine-Protectorate-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Austria-Hungary-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_British-Empire-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Byzantine-Empire-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Confederate-States-of-America-_-FormerCountry_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 553
-//// 553+0
+//// Repo count (WorldDB): 560
+//// 560+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 553
-//// 553+0
+//// Total repo count: 560
+//// 560+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 115 (2024, Friday, November 15th at 05:15 pm PST)
-//// Line count (including blank lines and compiler line): 579
+//// File version: 116 (2024, Saturday, November 16th at 07:03 pm PST)
+//// Line count (including blank lines and compiler line): 586
 //// ----------------------------------------------------- \\\\
 
 //// End of file
