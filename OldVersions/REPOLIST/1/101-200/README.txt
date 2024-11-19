@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2024, Sunday, November 17th
+//// As of 2024, Monday, November 18th
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (567)
+//// Seanpm2001-WorldDB (570)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -573,20 +573,23 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Empire-of-Japan-_-Form
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Estonian-Soviet-Socialist-Republic-_-FormerCountry_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Fascist-Italy-_-FormerCountry_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_First-Syrian-Republic-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_FolderArt-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_French-Empire-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_German-Empire-_-FormerCountry_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 567
-//// 567+0
+//// Repo count (WorldDB): 570
+//// 570+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 567
-//// 567+0
+//// Total repo count: 570
+//// 570+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 117 (2024, Sunday, November 17th at 08:36 pm PST)
-//// Line count (including blank lines and compiler line): 593
+//// File version: 118 (2024, Monday, November 18th at 06:56 pm PST)
+//// Line count (including blank lines and compiler line): 596
 //// ----------------------------------------------------- \\\\
 
 //// End of file
