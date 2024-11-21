@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2024, Tuesday, November 19th
+//// As of 2024, Wednesday, November 20th
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (573)
+//// Seanpm2001-WorldDB (576)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -579,20 +579,23 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_German-Empire-_-Former
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Grand-Duchy-of-Finland-_-FormerCountry_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Holy-Roman-Empire-_-FormerCountry_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Inca-Empire-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kalmar-Union-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kievan-Rus-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Finland-_-FormerCountry_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 573
-//// 573+0
+//// Repo count (WorldDB): 576
+//// 576+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 573
-//// 573+0
+//// Total repo count: 576
+//// 576+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 119 (2024, Tuesday, November 19th at 07:16 pm PST)
-//// Line count (including blank lines and compiler line): 599
+//// File version: 120 (2024, Wednesday, November 20th at 08:00 pm PST)
+//// Line count (including blank lines and compiler line): 602
 //// ----------------------------------------------------- \\\\
 
 //// End of file
