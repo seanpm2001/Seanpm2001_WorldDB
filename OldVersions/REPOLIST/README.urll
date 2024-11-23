@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2024, Thursday, November 21st
+//// As of 2024, Friday, November 22nd
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (579)
+//// Seanpm2001-WorldDB (582)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -585,20 +585,23 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Finland-_-F
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Greece-_-FormerCountry_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Iraq-_-FormerCountry_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Italy-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Serbia-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Manchukuo-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mongol-Empire-_-FormerCountry_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 579
-//// 579+0
+//// Repo count (WorldDB): 582
+//// 582+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 579
-//// 579+0
+//// Total repo count: 582
+//// 582+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 121 (2024, Thursday, November 21st at 08:26 pm PST)
-//// Line count (including blank lines and compiler line): 605
+//// File version: 122 (2024, Friday, November 22nd at 07:41 pm PST)
+//// Line count (including blank lines and compiler line): 608
 //// ----------------------------------------------------- \\\\
 
 //// End of file
