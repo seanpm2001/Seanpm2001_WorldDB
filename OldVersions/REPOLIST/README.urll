@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2024, Monday, November 25th
+//// As of 2024, Tuesday, November 26th
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (599)
+//// Seanpm2001-WorldDB (602)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -605,20 +605,23 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Yemen-_-FormerCo
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Soviet-Union-_-FormerCountry_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Swedish-Empire-_-FormerCountry_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tsardom-of-Russia-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-Peoples-Republic-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-Soviet-Socialist-Republic-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vichy-France-_-FormerCountry_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 599
-//// 599+0
+//// Repo count (WorldDB): 602
+//// 602+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 599
-//// 599+0
+//// Total repo count: 602
+//// 602+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 125 (2024, Monday, November 25th at 08:38 pm PST)
-//// Line count (including blank lines and compiler line): 625
+//// File version: 126 (2024, Tuesday, November 26th at 08:15 pm PST)
+//// Line count (including blank lines and compiler line): 628
 //// ----------------------------------------------------- \\\\
 
 //// End of file
