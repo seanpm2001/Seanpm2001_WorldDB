@@ -141,7 +141,10 @@ I am currently working on creating repositories for all countries, going in alph
 
 > **Repository listing is as of:** `2024, Friday, November 29th`
 
-- [:octocat: `DB: Kuiper Belt`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Kuiper-Belt/)
+> Count: 0 countries, 2 repositories
+
+- [:octocat: `DB: Kuiper Belt 🌌️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Kuiper-Belt/)
+- - [:octocat: `DB: Kuiper Belt 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Kuiper-Belt_Docs/)
 
 ### Pluto
 
@@ -159,7 +162,10 @@ I am currently working on creating repositories for all countries, going in alph
 
 > **Repository listing is as of:** `2024, Friday, November 29th`
 
-- [:octocat: `DB: Pluto`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Pluto/)
+> Count: 0 countries, 2 repositories
+
+- [:octocat: `DB: Pluto ☄️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Pluto/)
+- - [:octocat: `DB: Pluto/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Pluto_Docs/)
 
 </details> <!-- End of Pluto section !-->
 
@@ -187,7 +193,10 @@ _End of Kuiper Belt section._
 
 > **Repository listing is as of:** `2024, Friday, November 29th`
 
-- [:octocat: `DB: Milky Way`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Milky-Way/)
+> Count: 0 countries, 2 repositories
+
+- [:octocat: `DB: Milky Way 🌌️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Milky-Way/)
+- - [:octocat: `DB: Milky Way/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Milky-Way_Docs/)
 
 ---
 
@@ -1905,6 +1914,8 @@ _End of references section._
 
 > **Repository listing is as of:** `2024, Friday, November 29th`
 
+> Count: 0 countries, 2 repositories
+
 - [:octocat: `DB: Saturn 🪐️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Saturn/)
 - - [:octocat: `DB: Saturn/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Saturn_Docs/)
 
@@ -1931,7 +1942,10 @@ _End of references section._
 
 > **Repository listing is as of:** `2024, Friday, November 29th`
 
-- [:octocat: `DB: Uranus`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Uranus/)
+> Count: 0 countries, 2 repositories
+
+- [:octocat: `DB: Uranus 🪐️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Uranus/)
+- - [:octocat: `DB: Uranus/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Uranus_Docs/)
 
 </details> <!-- End of Uranus section !-->
 
@@ -1958,7 +1972,8 @@ _End of references section._
 
 > Count: 0 countries, 2 repositories
 
-- [:octocat: `DB: Venus`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Venus/)
+- [:octocat: `DB: Venus 🪐️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Venus/)
+- - [:octocat: `DB: Venus/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Venus_Docs/)
 
 </details> <!-- End of Venus section !-->
 
@@ -2259,12 +2274,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `129 (2024, Friday, November 29th at 07:50 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `2,996` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `24,035` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `176,722` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `159,514` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `181,078` <!-- TODO: This line should be updated daily !-->
+- **File version:** `130 (2024, Saturday, November 30th at 10:31 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `3,036` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `24,269` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `178,395` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `160,965` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `182,800` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2929,6 +2944,31 @@ Entries 1 to 100 have been removed, starting with version 101. They can be viewe
 - [ ] No other changes in version 129
 
 </details> <!-- End of file history: version 129 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 130 (2024, Saturday, November 30th at 10:31 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/101-200/README_V130.md)
+
+> **Note** _The one-hundred-thirtieth version of the README, just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Saturn` and `Uranus` sections under Milky Way
+- - [x] Updated the `Milky way` section
+- - [x] Updated the `Pluto` section under Kuiper Belt
+- - [x] Updated the `Kuiper Belt` section
+- [x] Updated the `file info` section
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 130
+- [ ] No other changes in version 130
+
+</details> <!-- End of file history: version 130 section !-->
 
 ---
 
