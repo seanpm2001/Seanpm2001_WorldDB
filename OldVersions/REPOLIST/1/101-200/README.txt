@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2024, Friday, November 29th
+//// As of 2024, Saturday, November 30th
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (611)
+//// Seanpm2001-WorldDB (616)
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth
@@ -617,20 +617,25 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Jupiter_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Mercury_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Venus_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Neptune_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Pluto_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Saturn_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Uranus_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Milky-Way_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Kuiper-Belt_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 611
-//// 611+0
+//// Repo count (WorldDB): 616
+//// 616+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 611
-//// 611+0
+//// Total repo count: 616
+//// 616+0
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 129 (2024, Friday, November 29th at 07:49 pm PST)
-//// Line count (including blank lines and compiler line): 637
+//// File version: 130 (2024, Saturday, November 30th at 10:29 pm PST)
+//// Line count (including blank lines and compiler line): 642
 //// ----------------------------------------------------- \\\\
 
 //// End of file
