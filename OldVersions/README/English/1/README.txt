@@ -233,22 +233,22 @@ _End of Kuiper Belt section._
 
 | Continent | Country count | Repository count | As of |
 |---|---|---|---|
-| [🌍️ Africa](#Africa) | 53 | 108 | 2025, March 4th |
-| [🌎️ North America](#North-America) | 7 | 16 | 2025, March 4th |
-| [🌎️ South America](#South-America) | 33 | 68 | 2025, March 4th |
-| [🌐️ Antarctica](#Antarctica) | 0 | 2 | 2025, March 4th |
-| [🌏️ Asia](#Asia) | 57 | 116 | 2025, March 4th |
-| [🌍️ Europe](#Europe) | 50 | 102 | 2025, March 4th |
-| [🌏️ Oceania](#Oceania) | 38 | 80 | 2025, March 4th |
-| 🌐️ Other (Earth, Moon) | 0 | 4 | 2025, March 4th |
-| 🌐️ Other (Afro-Eurasia; grouping) | 0 | 2 | 2025, March 4th |
-| 🌐️ Other (Eurasia; grouping) | 0 | 2 | 2025, March 4th |
-| 🌐️ Other (Former countries) | 52 | 103 | 2025, March 4th |
-| **🌐️ World total** | 230 | 587 | 2025, March 4th |
+| [🌍️ Africa](#Africa) | 53 | 108 | 2025, March 7th |
+| [🌎️ North America](#North-America) | 7 | 16 | 2025, March 7th |
+| [🌎️ South America](#South-America) | 33 | 68 | 2025, March 7th |
+| [🌐️ Antarctica](#Antarctica) | 0 | 2 | 2025, March 7th |
+| [🌏️ Asia](#Asia) | 57 | 116 | 2025, March 7th |
+| [🌍️ Europe](#Europe) | 50 | 102 | 2025, March 7th |
+| [🌏️ Oceania](#Oceania) | 39 | 82 | 2025, March 7th |
+| 🌐️ Other (Earth, Moon) | 0 | 4 | 2025, March 7th |
+| 🌐️ Other (Afro-Eurasia; grouping) | 0 | 2 | 2025, March 7th |
+| 🌐️ Other (Eurasia; grouping) | 0 | 2 | 2025, March 7th |
+| 🌐️ Other (Former countries) | 53 | 105 | 2025, March 7th |
+| **🌐️ World total** | 232 | 591 | 2025, March 7th |
 
-> Count: 230/298 countries, 587 repositories (recount needed)
+> Count: 232/300 countries, 591 repositories (recount needed)
 
-> **Repository listing is as of:** `2025, Tuesday, March 4th`
+> **Repository listing is as of:** `2025, Friday, March 7th`
 
 - [:octocat: `DB: Earth 🌐️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth/)
 - - [:octocat: `DB: Earth/FolderArt 📂️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_FolderArt/)
@@ -983,9 +983,9 @@ _End of Americas section._
 
 > [`See def:Oceania`](#Oceania-definition)
 
-> Count: 38 countries, 80 repositories
+> Count: 39 countries, 82 repositories
 
-> **Repository listing is as of:** `2025, Tuesday, March 4th`
+> **Repository listing is as of:** `2025, Friday, March 7th`
 
 - [:octocat: `DB: Earth/Oceania`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Oceania/)
 - - [:octocat: `DB: Earth/Americas/Oceania/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Oceania_Docs/)
@@ -1069,6 +1069,8 @@ _End of Americas section._
 - - - [:octocat: `DB: Earth/Oceania/Tuvalu/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tuvalu_Docs/)
 - - [:octocat: `DB: Earth/Oceania/Vanuatu 🇻🇺️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vanuatu/)
 - - - [:octocat: `DB: Earth/Oceania/Vanuatu/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vanuatu_Docs/)
+- - [:octocat: `DB: Earth/Oceania/Wallis and Futuna 🇼🇫️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Wallis-and-Futuna/)
+- - - [:octocat: `DB: Earth/Oceania/Wallis and Futuna/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Wallis-and-Futuna_Docs/)
 
 </details> <!-- End of Oceania section !-->
 
@@ -1159,11 +1161,13 @@ _End of groupings section._
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Former Countries in Africa section</b></p></summary>
 
-> Count: 0 former countries, 0 repositories
+> Count: 1 former country, 2 repositories
 
-> **Repository listing is as of:** `2024, Friday, November 29th`
+> **Repository listing is as of:** `2025, Friday, March 7th`
 
-- Nothing to list yet.
+- [:octocat: `DB: Earth/Former countries/Peoples Republic of the Congo 🏴️`](https://github.com/seanpm2001/https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of the-Congo-_-FormerCountry/) [`[1]`](#FC-AFRICA3)
+- - [:octocat: `DB: Earth/Former countries/Peoples Republic of the Congo/Docs 📖️`](https://github.com/seanpm2001/https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of the-Congo-_-FormerCountry_Docs/) [`[1]`](#FC-AFRICA3)
+
 
 </details> <!-- End of Former countries in Africa section !-->
 
@@ -1430,6 +1434,10 @@ _End of Earth section._
 ###### AFRICA2
 
 - 2. [AFRICA, note 2] Recognized by most countries as a part of Morocco. Western Sahara is a breakaway region. I don't have an opinion on Somaliland.
+
+###### AFRICA3
+
+- 2. [AFRICA, note 3] The Peoples Republic of the Congo was a Marxist—Leninist state in the current territory of the Republic of the Congo that existed from 1969, December 31st, until 1992, March 15th. It was succeeded by the Republic of the Congo.
 
 </details> <!-- End of African references section !-->
 
@@ -2290,12 +2298,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `132 (2025, Tuesday, March 4th at 05:22 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `3,096` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `24,799` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `182,206` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `164,396` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `186,715` <!-- TODO: This line should be updated daily !-->
+- **File version:** `133 (2025, Friday, March 7th at 05:18 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `3,127` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `25,074` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `184,080` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `166,049` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `188,614` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3029,6 +3037,29 @@ Entries 1 to 100 have been removed, starting with version 101. They can be viewe
 - [ ] No other changes in version 132
 
 </details> <!-- End of file history: version 132 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 133 (2025, Friday, March 7th at 05:18 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/101-200/README_V133.md)
+
+> **Note** _The one-hundred-thirty-third version of the README, with 2 new countries. Just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Oceania` sections under Earth
+- - [x] Updated the `Africa` sections under Earth/former countries
+- [x] Updated the `file info` section
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 133
+- [ ] No other changes in version 133
+
+</details> <!-- End of file history: version 133 section !-->
 
 ---
 
