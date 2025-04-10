@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2025, Wednesday, April 9th
+//// As of 2025, Thursday, April 10th
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (642)
+//// Seanpm2001-WorldDB (650)
 
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
@@ -649,10 +649,18 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Median-kingdom-_-Forme
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Median-kingdom-_-FormerCountry_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Hungary-1301-_-FormerCountry
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Hungary-1301-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Muslim-World-_-Grouping
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Muslim-World-_-Grouping_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_First-French-Republic-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_First-French-Republic-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Warsaw-Pact-_-Grouping-_-Former
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Warsaw-Pact-_-Grouping-_-Former_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-State-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-State-_-FormerCountry_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 642
-//// 6342+0=642
+//// Repo count (WorldDB): 650
+//// 650+0=650
 //// ----------------------------------------------------- \\\\
 
 //// See also (1)
@@ -662,15 +670,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Hungary-130
 https://github.com/seanpm2001/Countries/
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 643
-//// 642+1=643
+//// Total repo count: 651
+//// 650+1=651
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 134 (2025, Wednesday, April 9th at 06:03 pm PST)
-//// Line count (including blank lines and compiler line): 677
+//// File version: 135 (2025, Thursday, April 10th at 04:59 pm PST)
+//// Line count (including blank lines and compiler line): 685
 //// ----------------------------------------------------- \\\\
 
 //// End of file
