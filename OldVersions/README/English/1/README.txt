@@ -233,22 +233,22 @@ _End of Kuiper Belt section._
 
 | Continent | Country count | Repository count | As of |
 |---|---|---|---|
-| [🌍️ Africa](#Africa) | 53 | 108 | 2025, April 9th |
-| [🌎️ North America](#North-America) | 7 | 16 | 2025, April 9th |
-| [🌎️ South America](#South-America) | 33 | 68 | 2025, April 9th |
-| [🌐️ Antarctica](#Antarctica) | 0 | 2 | 2025, April 9th |
-| [🌏️ Asia](#Asia) | 57 | 116 | 2025, April 9th |
-| [🌍️ Europe](#Europe) | 50 | 102 | 2025, April 9th |
-| [🌏️ Oceania](#Oceania) | 39 | 82 | 2025, April 9th |
-| 🌐️ Other (Earth, Moon) | 0 | 4 | 2025, April 9th |
-| 🌐️ Other (Afro-Eurasia; grouping) | 0 | 2 | 2025, April 9th |
-| 🌐️ Other (Eurasia; grouping) | 0 | 2 | 2025, April 9th |
-| 🌐️ Other (Former countries) | 56 | 111 | 2025, April 9th |
-| **🌐️ World total** | 232 | 597 | 2025, April 9th |
+| [🌍️ Africa](#Africa) | 53 | 108 | 2025, April 10th |
+| [🌎️ North America](#North-America) | 7 | 16 | 2025, April 10th |
+| [🌎️ South America](#South-America) | 33 | 68 | 2025, April 10th |
+| [🌐️ Antarctica](#Antarctica) | 0 | 2 | 2025, April 10th |
+| [🌏️ Asia](#Asia) | 57 | 116 | 2025, April 10th |
+| [🌍️ Europe](#Europe) | 50 | 102 | 2025, April 10th |
+| [🌏️ Oceania](#Oceania) | 39 | 82 | 2025, April 10th |
+| 🌐️ Other (Earth, Moon) | 0 | 4 | 2025, April 10th |
+| 🌐️ Other (Afro-Eurasia; grouping) | 0 | 2 | 2025, April 10th |
+| 🌐️ Other (Eurasia; grouping) | 0 | 2 | 2025, April 10th |
+| 🌐️ Other (Former countries) | 60 | 119 | 2025, April 10th |
+| **🌐️ World total** | 232 | 597 | 2025, April 10th |
 
-> Count: 232/300 countries, 591 repositories (recount needed)
+> Count: 232/300 countries, 599 repositories (recount needed)
 
-> **Repository listing is as of:** `2025, Wednesday, April 9th`
+> **Repository listing is as of:** `2025, Thursday, April 10th`
 
 - [:octocat: `DB: Earth 🌐️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth/)
 - - [:octocat: `DB: Earth/FolderArt 📂️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_FolderArt/)
@@ -1080,6 +1080,13 @@ _End of Americas section._
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Groupings section</b></p></summary>
 
+**UNORGANIZED**
+
+- [:octocat: `DB: Earth/Muslim World (grouping) 🎌️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Muslim-World-_-Grouping/)
+- - [:octocat: `DB: Earth/Muslim World (grouping)/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Muslim-World-_-Grouping/)
+- [:octocat: `DB: Earth/Warsaw Pact (grouping) (former) 🎌️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Warsaw-Pact-_-Grouping-_-Former/)
+- - [:octocat: `DB: Earth/Warsaw Pzct (grouping) (former)/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Warsaw-Pact-_-Grouping-_-Former_Docs/)
+
 ---
 
 ##### Afro-Eurasia
@@ -1310,9 +1317,9 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Median-kingdom-_-Forme
 |---|
 | 🇫🇷️ The First French Empire in 1812 CE |
 
-> Count: 24 former countries, 46 repositories
+> Count: 26 former countries, 50 repositories
 
-> **Repository listing is as of:** `2025, Wednesdsay, April 9th`
+> **Repository listing is as of:** `2025, Thursday, April 10th`
 
 - [:octocat: `DB: Earth/Former countries/Austria-Hungary 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Austria-Hungary-_-FormerCountry/) [`[1]`](#FC-EUROPE1)
 - - [:octocat: `DB: Earth/Former countries/Austria-Hungary/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Austria-Hungary-_-FormerCountry_Docs/) [`[1]`](#FC-EUROPE1)
@@ -1320,7 +1327,9 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Median-kingdom-_-Forme
 - - [:octocat: `DB: Earth/Former countries/East Germany/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_East-Germany-_-FormerCountry_Docs/) [`[2]`](#FC-EUROPE2)
 - [:octocat: `DB: Earth/Former countries/Estonian Soviet Socialist Republic 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Estonian-Soviet-Socialist-Republic-_-FormerCountry/) [`[3]`](#FC-EUROPE3)
 - - [:octocat: `DB: Earth/Former countries/Estonian Soviet Socialist Republic/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Estonian-Soviet-Socialist-Republic-_-FormerCountry_Docs/) [`[3]`](#FC-EUROPE3)
-- [:octocat: `DB: Earth/Former countries/French Empire 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_French-Empire-_-FormerCountry/) [`[4]`](#FC-EUROPE4)
+- [:octocat: `DB: Earth/Former countries/First French Republic 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_First-French-Republic-_-FormerCountry/) [`[4]`](#FC-EUROPE4)
+- - [:octocat: `DB: Earth/Former countries/First French Republic/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_First-French-Republic-_-FormerCountry_Docs/) [`[4]`](#FC-EUROPE25)
+- [:octocat: `DB: Earth/Former countries/French Empire 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_French-Empire-_-FormerCountry/) [`[4]`](#FC-EUROPE24)
 - - [:octocat: `DB: Earth/Former countries/French Empire/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_French-Empire-_-FormerCountry_Docs/) [`[4]`](#FC-EUROPE4)
 - [:octocat: `DB: Earth/Former countries/Grand Duchy of Finland 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Grand-Duchy-of-Finland-_-FormerCountry/) [`[5]`](#FC-EUROPE5)
 - - [:octocat: `DB: Earth/Former countries/Grand Duchy of Finland/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Grand-Duchy-of-Finland-_-FormerCountry_Docs/) [`[5]`](#FC-EUROPE5)
@@ -1352,6 +1361,8 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Median-kingdom-_-Forme
 - - [:octocat: `DB: Earth/Former countries/Ukrainian Peoples Republic/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-Peoples-Republic-_-FormerCountry/) [`[17]`](#FC-EUROPE17)
 - [:octocat: `DB: Earth/Former countries/Ukrainian Soviet Socialist Republic 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-Soviet-Socialist-Republic-_-FormerCountry/) [`[18]`](#FC-EUROPE18)
 - - [:octocat: `DB: Earth/Former countries/Ukrainian Soviet Socialist Republic/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-Soviet-Socialist-Republic-_-FormerCountry_Docs/) [`[18]`](#FC-EUROPE18)
+- [:octocat: `DB: Earth/Former countries/Ukrainian State 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-State-_-FormerCountry/) [`[23]`](#FC-EUROPE23)
+- - [:octocat: `DB: Earth/Former countries/Ukrainian State/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-State-_-FormerCountry_Docs/) [`[18]`](#FC-EUROPE24)
 - [:octocat: `DB: Earth/Former countries/Vichy France 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vichy-France-_-FormerCountry/) [`[19]`](#FC-EUROPE19)
 - - [:octocat: `DB: Earth/Former countries/Vichy France/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Vichy-France-_-FormerCountry_Docs/) [`[19]`](#FC-EUROPE19)
 - [:octocat: `DB: Earth/Former countries/Weimar Republic 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Weimar-Republic-_-FormerCountry/) [`[20]`](#FC-EUROPE20)
@@ -1763,6 +1774,18 @@ I enjoy writing these references about the history of former countries. - 2024.0
 ###### FC-EUROPE23
 
 - 23. [Former Countries, Europe, note 23] The Kingdom of Hungary as it was in 1301 CE to 1526 CE, was succeeded by another Kingdom of Hungary, along with the Eastern Hungarian Kingdom, and also Ottoman Hungary.
+
+###### FC-EUROPE23
+
+- 23. [Former Countries, Europe, note 23] The Kingdom of Hungary as it was in 1301 CE to 1526 CE, was succeeded by another Kingdom of Hungary, along with the Eastern Hungarian Kingdom, and also Ottoman Hungary.
+
+###### FC-EUROPE24
+
+- 24. [Former Countries, Europe, note 24] The short-lived Ukrainian state existed from 1918, April 29th to 1918, December 14th, when it was suceeded by the Ukrainian Peoples Republic.
+
+###### FC-EUROPE25
+
+- 25. [Former Countries, Europe, note 25] The First French Republic existed from 1792, September 21st, until 1804, May 18th, when Napoleon Bonaparte was declared emperor, and thus, was replaced by the First French Empire.
 
 <!-- Template
 I never supported [evil_country], and this repository was created, since it was part of the original dataset, and it is historical.
@@ -2327,12 +2350,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `134 (2025, Wednesday, April 9th at 06:05 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `3,179` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `25,480` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `187,008` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `168,674` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `191,572` <!-- TODO: This line should be updated daily !-->
+- **File version:** `135 (2025, Thursday, April 10th at 04:57 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `3,225` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `25,889` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `189,976` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `171,319` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `194,580` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3112,6 +3135,29 @@ Entries 1 to 100 have been removed, starting with version 101. They can be viewe
 - [ ] No other changes in version 134
 
 </details> <!-- End of file history: version 134 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 135 (2025, Thursday, April 10th at 04:57 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/101-200/README_V135.md)
+
+> **Note** _The one-hundred-thirty-fifth version of the README, with 2 new countries, and 2 new groupings. Just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Europe` sections under Earth/former countries
+- - [x] Created the `Unsorted` section under Groupings
+- [x] Updated the `file info` section
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 135
+- [ ] No other changes in version 135
+
+</details> <!-- End of file history: version 135 section !-->
 
 ---
 
