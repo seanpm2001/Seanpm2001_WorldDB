@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2025, Friday, March 7th
+//// As of 2025, Wednesday, April 9th
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (636)
+//// Seanpm2001-WorldDB (642)
 
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
@@ -643,10 +643,16 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Wallis-and-Futuna
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Wallis-and-Futuna_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of the-Congo-_-FormerCountry
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of the-Congo-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mughal-Empire-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mughal-Empire-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Median-kingdom-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Median-kingdom-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Hungary-1301-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Hungary-1301-_-FormerCountry_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 636
-//// 636+0=636
+//// Repo count (WorldDB): 642
+//// 6342+0=642
 //// ----------------------------------------------------- \\\\
 
 //// See also (1)
@@ -656,15 +662,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of th
 https://github.com/seanpm2001/Countries/
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 637
-//// 636+1=637
+//// Total repo count: 643
+//// 642+1=643
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 133 (2025, Friday, March 7th at 05:17 pm PST)
-//// Line count (including blank lines and compiler line): 671
+//// File version: 134 (2025, Wednesday, April 9th at 06:03 pm PST)
+//// Line count (including blank lines and compiler line): 677
 //// ----------------------------------------------------- \\\\
 
 //// End of file
