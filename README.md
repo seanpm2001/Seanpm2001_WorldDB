@@ -233,22 +233,22 @@ _End of Kuiper Belt section._
 
 | Continent | Country count | Repository count | As of |
 |---|---|---|---|
-| [🌍️ Africa](#Africa) | 53 | 108 | 2025, April 10th |
-| [🌎️ North America](#North-America) | 7 | 16 | 2025, April 10th |
-| [🌎️ South America](#South-America) | 33 | 68 | 2025, April 10th |
-| [🌐️ Antarctica](#Antarctica) | 0 | 2 | 2025, April 10th |
-| [🌏️ Asia](#Asia) | 57 | 116 | 2025, April 10th |
-| [🌍️ Europe](#Europe) | 50 | 102 | 2025, April 10th |
-| [🌏️ Oceania](#Oceania) | 39 | 82 | 2025, April 10th |
-| 🌐️ Other (Earth, Moon) | 0 | 4 | 2025, April 10th |
-| 🌐️ Other (Afro-Eurasia; grouping) | 0 | 2 | 2025, April 10th |
-| 🌐️ Other (Eurasia; grouping) | 0 | 2 | 2025, April 10th |
-| 🌐️ Other (Former countries) | 60 | 119 | 2025, April 10th |
-| **🌐️ World total** | 232 | 597 | 2025, April 10th |
+| [🌍️ Africa](#Africa) | 53 | 108 | 2025, April 11th |
+| [🌎️ North America](#North-America) | 7 | 16 | 2025, April 11th |
+| [🌎️ South America](#South-America) | 33 | 68 | 2025, April 11th |
+| [🌐️ Antarctica](#Antarctica) | 0 | 2 | 2025, April 11th |
+| [🌏️ Asia](#Asia) | 57 | 116 | 2025, April 11th |
+| [🌍️ Europe](#Europe) | 50 | 102 | 2025, April 11th |
+| [🌏️ Oceania](#Oceania) | 39 | 82 | 2025, April 11th |
+| 🌐️ Other (Earth, Moon) | 0 | 4 | 2025, April 11th |
+| 🌐️ Other (Afro-Eurasia; grouping) | 0 | 2 | 2025, April 11th |
+| 🌐️ Other (Eurasia; grouping) | 0 | 2 | 2025, April 11th |
+| 🌐️ Other (Former countries) | 60 | 119 | 2025, April 11th |
+| **🌐️ World total** | 236 | 601 | 2025, April 11th |
 
-> Count: 232/300 countries, 599 repositories (recount needed)
+> Count: 232/304 countries, 607 repositories (recount needed)
 
-> **Repository listing is as of:** `2025, Thursday, April 10th`
+> **Repository listing is as of:** `2025, Friday, April 11th`
 
 - [:octocat: `DB: Earth 🌐️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth/)
 - - [:octocat: `DB: Earth/FolderArt 📂️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_FolderArt/)
@@ -1168,13 +1168,14 @@ _End of groupings section._
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Former Countries in Africa section</b></p></summary>
 
-> Count: 1 former country, 2 repositories
+> Count: 2 former countries, 4 repositories
 
-> **Repository listing is as of:** `2025, Friday, March 7th`
+> **Repository listing is as of:** `2025, Friday, April 11th`
 
-- [:octocat: `DB: Earth/Former countries/Peoples Republic of the Congo 🏴️`](https://github.com/seanpm2001/https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of the-Congo-_-FormerCountry/) [`[1]`](#FC-AFRICA3)
-- - [:octocat: `DB: Earth/Former countries/Peoples Republic of the Congo/Docs 📖️`](https://github.com/seanpm2001/https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of the-Congo-_-FormerCountry_Docs/) [`[1]`](#FC-AFRICA3)
-
+- [:octocat: `DB: Earth/Former countries/Mali Empire 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mali-Empire-_-FormerCountry) [`[2]`](#FC-AFRICA4)
+- - [:octocat: `DB: Earth/Former countries/Mali Empire/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mali-Empire-_-FormerCountry_Docs) [`[12`](#FC-AFRICA4)
+- [:octocat: `DB: Earth/Former countries/Peoples Republic of the Congo 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of the-Congo-_-FormerCountry/) [`[1]`](#FC-AFRICA3)
+- - [:octocat: `DB: Earth/Former countries/Peoples Republic of the Congo/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of the-Congo-_-FormerCountry_Docs/) [`[1]`](#FC-AFRICA3)
 
 </details> <!-- End of Former countries in Africa section !-->
 
@@ -1287,10 +1288,7 @@ _End of former countries in The Americas._
 - - [:octocat: `DB: Earth/Former countries/Mughal Empire/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mughal-Empire-_-FormerCountry_Docs/) [`[16]`](#FC-ASIA16)
 
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_-_-FormerCountry
-https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mughal-Empire-_-FormerCountry_Docs
-https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_-_-FormerCountry
-https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Median-kingdom-_-FormerCountry_Docs
-
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Safavid-Empire_Iran-_-FormerCountry_Docs
 
 - [:octocat: `DB: Earth/Former countries/Mutawakkilite Kingdom of Yemen 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mutawakkilite-Kingdom-of-Yemen-_-FormerCountry/) [`[10]`](#FC-ASIA10)
 - - [:octocat: `DB: Earth/Former countries/Mutawakkilite Kingdom of Yemen/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mutawakkilite-Kingdom-of-Yemen-_-FormerCountry_Docs/) [`[10]`](#FC-ASIA10)
@@ -1300,6 +1298,9 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Median-kingdom-_-Forme
 - - [:octocat: `DB: Earth/Former countries/Qing Dynasty China/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Qing-Dynasty-China-_-FormerCountry_Docs/) [`[12]`](#FC-ASIA12)
 - [:octocat: `DB: Earth/Former countries/Republic of China 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Republic-of-China-_-FormerCountry/) [`[13]`](#FC-ASIA13)
 - - [:octocat: `DB: Earth/Former countries/Republic of China/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Republic-of-China-_-FormerCountry_Docs/) [`[13]`](#FC-ASIA13)
+
+- [:octocat: `DB: Earth/Former countries/Safavid Empire Iran 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Safavid-Empire_Iran-_-FormerCountry/) [`[18]`](#FC-ASIA18)
+- - [:octocat: `DB: Earth/Former countries/Safavid Empire Iran/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Safavid-Empire_Iran-_-FormerCountry_Docs/) [`[14]`](#FC-ASIA14)
 - [:octocat: `DB: Earth/Former countries/South Vietnam 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Vietnam-_-FormerCountry/) [`[14]`](#FC-ASIA14)
 - - [:octocat: `DB: Earth/Former countries/South Vietnam/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Vietnam-_-FormerCountry_Docs/) [`[14]`](#FC-ASIA14)
 - [:octocat: `DB: Earth/Former countries/South Yemen 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_South-Yemen-_-FormerCountry/) [`[15]`](#FC-ASIA15)
@@ -1339,6 +1340,8 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Median-kingdom-_-Forme
 - - [:octocat: `DB: Earth/Former countries/Kalmar Union/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kalmar-Union-_-FormerCountry_Docs/) [`[7]`](#FC-EUROPE7)
 - [:octocat: `DB: Earth/Former countries/Kingdom of Finland 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Finland-_-FormerCountry/) [`[8]`](#FC-EUROPE8)
 - - [:octocat: `DB: Earth/Former countries/Kingdom of Finland/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Finland-_-FormerCountry_Docs/) [`[8]`](#FC-EUROPE8)
+- [:octocat: `DB: Earth/Former countries/Kingdom of Finland (1742) 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Finland-1742-_-FormerCountry/) [`[26]`](#FC-EUROPE26)
+- - [:octocat: `DB: Earth/Former countries/Kingdom of Finland (1742)/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Finland-1742-_-FormerCountry_Docs/) [`[26]`](#FC-EUROPE26)
 - [:octocat: `DB: Earth/Former countries/Kingdom of Greece 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Greece-_-FormerCountry/) [`[9]`](#FC-EUROPE9)
 - - [:octocat: `DB: Earth/Former countries/Kingdom of Greece/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Greece-_-FormerCountry_Docs/) [`[9]`](#FC-EUROPE9)
 - [:octocat: `DB: Earth/Former countries/Kingdom of Hungary (1301) 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Hungary-1301-_-FormerCountry/) [`[23]`](#FC-EUROPE23)
@@ -1347,6 +1350,8 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Median-kingdom-_-Forme
 - - [:octocat: `DB: Earth/Former countries/Kingdom of Italy/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Italy-_-FormerCountry_Docs/) [`[10]`](#FC-EUROPE10)
 - [:octocat: `DB: Earth/Former countries/Kingdom of Serbia 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Serbia-_-FormerCountry/) [`[11]`](#FC-EUROPE11)
 - - [:octocat: `DB: Earth/Former countries/Kingdom of Serbia/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Serbia-_-FormerCountry_Docs/) [`[11]`](#FC-EUROPE11)
+- [:octocat: `DB: Earth/Former countries/Minoan civilization 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Finland-_-FormerCountry/) [`[8]`](#FC-EUROPE27)
+- - [:octocat: `DB: Earth/Former countries/Minoan civilization/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Minoan-civilization-_-FormerCountry_Docs/) [`[8]`](#FC-EUROPE27)
 - [:octocat: `DB: Earth/Former countries/Nazi Germany 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nazi-Germany-_-FormerCountry/) [`[12]`](#FC-EUROPE12)
 - - [:octocat: `DB: Earth/Former countries/Nazi Germany/Docs 📖️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Nazi-Germany-_-FormerCountry_Docs/) [`[12]`](#FC-EUROPE12)
 - [:octocat: `DB: Earth/Former countries/Peoples Republic of Ukraine 🏴️`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of-Ukraine-_-FormerCountry/) [`[13]`](#FC-EUROPE13)
@@ -1465,7 +1470,11 @@ _End of Earth section._
 
 ###### AFRICA3
 
-- 2. [AFRICA, note 3] The Peoples Republic of the Congo was a Marxist—Leninist state in the current territory of the Republic of the Congo that existed from 1969, December 31st, until 1992, March 15th. It was succeeded by the Republic of the Congo.
+- 3. [AFRICA, note 3] The Peoples Republic of the Congo was a Marxist—Leninist state in the current territory of the Republic of the Congo that existed from 1969, December 31st, until 1992, March 15th. It was succeeded by the Republic of the Congo.
+
+###### AFRICA4
+
+- 4. [AFRICA, note 4] The Mali Empire was a country in Africa that existed from around 1235 CE until 1670 CE, when it was sacked and scorched by the Segou <!--UI !--> Empire.
 
 </details> <!-- End of African references section !-->
 
@@ -1665,9 +1674,13 @@ I enjoy writing these references about the history of former countries. - 2024.0
 
 - 16. [Former Countries, Asia, note 16] The Moghul Empire existed from 1526 CE to 1857 CE. It was succeeded by India, Pakistan, Bangladesh, and Afghanistan. 
 
-###### FC-ASIA15
+###### FC-ASIA17
 
 - 17. [Former Countries, Asia, note 17] The Median Kingdom existed from around 678 BCE to 550 BCE. It was succeeded by the Achaemid Empire
+
+###### FC-ASIA18
+
+- 18. [Former Countries, Asia, note 18] The Safavid Empire (or Safavid Iran) existed from 1301 CE to 1736, March 8th. It was succeeded by Afsharid Iran.
 
 ---
 
@@ -1786,6 +1799,14 @@ I enjoy writing these references about the history of former countries. - 2024.0
 ###### FC-EUROPE25
 
 - 25. [Former Countries, Europe, note 25] The First French Republic existed from 1792, September 21st, until 1804, May 18th, when Napoleon Bonaparte was declared emperor, and thus, was replaced by the First French Empire.
+
+###### FC-EUROPE26
+
+- 26. [Former Countries, Europe, note 26] The 1742 Kingdom of Finland exited from 1742 to 1743, when it was overtaken by Sweden.
+
+###### FC-EUROPE27
+
+- 27. [Former Countries, Europe, note 27] The Minoan civilization was a bronze age establishment on the island of Crete that existed between 3100 BCE and 1100 BCE. It was succeeded by Mycenaean Greece.
 
 <!-- Template
 I never supported [evil_country], and this repository was created, since it was part of the original dataset, and it is historical.
@@ -2350,12 +2371,12 @@ _End of WorldDB Tags_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `135 (2025, Thursday, April 10th at 04:57 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `3,225` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `25,889` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `189,976` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `171,319` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `194,580` <!-- TODO: This line should be updated daily !-->
+- **File version:** `136 (2025, Friday, April 11th at 04:35 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `3,270` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `26,302` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `192,875` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `173,877` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `197,519` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3158,6 +3179,30 @@ Entries 1 to 100 have been removed, starting with version 101. They can be viewe
 - [ ] No other changes in version 135
 
 </details> <!-- End of file history: version 135 section !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 136 (2025, Friday, April 11th at 04:35 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`Click/tap here`](/OldVersions/README/English/1/101-200/README_V136.md)
+
+> **Note** _The one-hundred-thirty-sixth version of the README, with 4 new countries. Just keeping the file up to date._
+
+> **Changes:**
+
+- [x] Updated the `WorldDB` section
+- - [x] Updated the `Europe` sections under Earth/former countries
+- - [x] Created the `Unsorted` section under Groupings
+- [x] Updated the `file info` section
+- - [x] Updated the file version
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 136
+- [ ] No other changes in version 136
+
+</details> <!-- End of file history: version 136 section !-->
+
 
 ---
 
