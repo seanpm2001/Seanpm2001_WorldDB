@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2025, Friday, April 11th
+//// As of 2025, Saturday, April 12th
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (658)
+//// Seanpm2001-WorldDB (668)
 
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
@@ -665,10 +665,20 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Finland-174
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Kingdom-of-Finland-1742-_-FormerCountry_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mali-Empire-_-FormerCountry
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mali-Empire-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tsardom-of-Bulgaria-1908-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Tsardom-of-Bulgaria-1908-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Centrocaspian-Dictatorship-1918-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Centrocaspian-Dictatorship-1918-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Azerbaijan-Democratic-Republic-1918-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Azerbaijan-Democratic-Republic-1918-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Yemen-Arab-Republic-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Yemen-Arab-Republic-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sumer-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sumer-_-FormerCountry_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 658
-//// 658+0=658
+//// Repo count (WorldDB): 668
+//// 668+0=668
 //// ----------------------------------------------------- \\\\
 
 //// See also (1)
@@ -678,15 +688,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Mali-Empire-_-FormerCo
 https://github.com/seanpm2001/Countries/
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 659
-//// 658+1=659
+//// Total repo count: 669
+//// 668+1=669
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 136 (2025, Friday, April 11th at 04:36 pm PST)
-//// Line count (including blank lines and compiler line): 693
+//// File version: 137 (2025, Saturday, April 12th at 04:58 pm PST)
+//// Line count (including blank lines and compiler line): 703
 //// ----------------------------------------------------- \\\\
 
 //// End of file
