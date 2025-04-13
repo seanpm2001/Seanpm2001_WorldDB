@@ -2,13 +2,13 @@
 //// Seanpm2001-WorldDB_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Seanpm2001 WorldDB repositories by @seanpm2001
-//// As of 2025, Saturday, April 12th
+//// As of 2025, Sunday, April 13th
 
 //// ----------------------------------------------------- \\\\
 //// Seanpm2001 WorldDB
 //// ----------------------------------------------------- \\\\
 
-//// Seanpm2001-WorldDB (668)
+//// Seanpm2001-WorldDB (678)
 
 https://github.com/seanpm2001/Seanpm2001_WorldDB
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB
@@ -675,10 +675,20 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Yemen-Arab-Republic-_-
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Yemen-Arab-Republic-_-FormerCountry_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sumer-_-FormerCountry
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sumer-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Al-Andalus-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Al-Andalus-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Jabal-Druze-State-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Jabal-Druze-State-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Babylonia-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Babylonia-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lagash-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Lagash-_-FormerCountry_Docs
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Assyria-_-FormerCountry
+https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Assyria-_-FormerCountry_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (WorldDB): 668
-//// 668+0=668
+//// Repo count (WorldDB): 678
+//// 678+0=678
 //// ----------------------------------------------------- \\\\
 
 //// See also (1)
@@ -688,15 +698,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Sumer-_-FormerCountry_
 https://github.com/seanpm2001/Countries/
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 669
-//// 668+1=669
+//// Total repo count: 679
+//// 678+1=679
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 137 (2025, Saturday, April 12th at 04:58 pm PST)
-//// Line count (including blank lines and compiler line): 703
+//// File version: 138 (2025, Sunday, April 13th at 04:24 pm PST)
+//// Line count (including blank lines and compiler line): 713
 //// ----------------------------------------------------- \\\\
 
 //// End of file
